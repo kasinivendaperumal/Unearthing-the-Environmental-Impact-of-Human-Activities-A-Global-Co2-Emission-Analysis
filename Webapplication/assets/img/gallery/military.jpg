@@ -1,0 +1,4283 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Environmental Destruction Wrought by War</title>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+	
+
+        
+
+    <meta property="og:site_name" content="Earth Island Journal" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@earthislandjrnl" />
+    <meta property="fb:app_id" content="198749383538219" />
+    <meta property="og:type" content="article" />
+    
+     
+        <link rel="canonical" href="https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war/" />
+           
+        <meta property="og:url" content="https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war/" />
+        <meta name="twitter:url" content="https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war/" />
+        <meta name="twitter:title" content="The Environmental Destruction Wrought by War" />
+        <meta property="og:title" content="The Environmental Destruction Wrought by War" />
+        
+            <meta name="twitter:image:src" content="https://farm5.staticflickr.com/4201/34419908534_43217ace18_z.jpg" />
+            <meta property="og:image" content="https://farm5.staticflickr.com/4201/34419908534_43217ace18_z.jpg" />
+        
+                
+            
+                <meta name="twitter:description" content="Over the past 60 years competition over natural resources has played an increasing role in driving armed conflict." />
+                <meta property="og:description" content="Over the past 60 years competition over natural resources has played an increasing role in driving armed conflict." />
+                <meta name="description" content="Over the past 60 years competition over natural resources has played an increasing role in driving armed conflict." />
+             
+        
+      
+    
+         
+
+
+
+    <link rel="stylesheet" type="text/css" href="/components/site/default/asset/css/swiper.css">
+    <link rel="stylesheet" type="text/css" href="/components/site/default/asset/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="/components/site/default/asset/css/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="/components/site/default/asset/css/style.css?v=1.0.10">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
+
+     <link rel="stylesheet" type="text/css" href="/components/site/quiz/jquery.quiz.css" /><!-- -->
+
+
+    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    </style>
+    <script src="https://kit.fontawesome.com/5e104ec59d.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Roboto+Condensed:300,400,700&amp;subset=latin-ext" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+
+    
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <script>/*!
+ * Lightbox v2.11.1
+ * by Lokesh Dhakar
+ *
+ * More info:
+ * http://lokeshdhakar.com/projects/lightbox2/
+ *
+ * Copyright Lokesh Dhakar
+ * Released under the MIT license
+ * https://github.com/lokesh/lightbox2/blob/master/LICENSE
+ *
+ * @preserve
+ */
+!function(a,b){"function"==typeof define&&define.amd?define(["jquery"],b):"object"==typeof exports?module.exports=b(require("jquery")):a.lightbox=b(a.jQuery)}(this,function(a){function b(b){this.album=[],this.currentImageIndex=void 0,this.init(),this.options=a.extend({},this.constructor.defaults),this.option(b)}return b.defaults={albumLabel:"Image %1 of %2",alwaysShowNavOnTouchDevices:!1,fadeDuration:600,fitImagesInViewport:!0,imageFadeDuration:600,positionFromTop:50,resizeDuration:700,showImageNumberLabel:!0,wrapAround:!1,disableScrolling:!1,sanitizeTitle:!1},b.prototype.option=function(b){a.extend(this.options,b)},b.prototype.imageCountLabel=function(a,b){return this.options.albumLabel.replace(/%1/g,a).replace(/%2/g,b)},b.prototype.init=function(){var b=this;a(document).ready(function(){b.enable(),b.build()})},b.prototype.enable=function(){var b=this;a("body").on("click","a[rel^=lightbox], area[rel^=lightbox], a[data-lightbox], area[data-lightbox]",function(c){return b.start(a(c.currentTarget)),!1})},b.prototype.build=function(){if(!(a("#lightbox").length>0)){var b=this;a('<div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay"></div><div id="lightbox" tabindex="-1" class="lightbox"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""/><div class="lb-nav"><a class="lb-prev" aria-label="Previous image" href="" ></a><a class="lb-next" aria-label="Next image" href="" ></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div>').appendTo(a("body")),this.$lightbox=a("#lightbox"),this.$overlay=a("#lightboxOverlay"),this.$outerContainer=this.$lightbox.find(".lb-outerContainer"),this.$container=this.$lightbox.find(".lb-container"),this.$image=this.$lightbox.find(".lb-image"),this.$nav=this.$lightbox.find(".lb-nav"),this.containerPadding={top:parseInt(this.$container.css("padding-top"),10),right:parseInt(this.$container.css("padding-right"),10),bottom:parseInt(this.$container.css("padding-bottom"),10),left:parseInt(this.$container.css("padding-left"),10)},this.imageBorderWidth={top:parseInt(this.$image.css("border-top-width"),10),right:parseInt(this.$image.css("border-right-width"),10),bottom:parseInt(this.$image.css("border-bottom-width"),10),left:parseInt(this.$image.css("border-left-width"),10)},this.$overlay.hide().on("click",function(){return b.end(),!1}),this.$lightbox.hide().on("click",function(c){"lightbox"===a(c.target).attr("id")&&b.end()}),this.$outerContainer.on("click",function(c){return"lightbox"===a(c.target).attr("id")&&b.end(),!1}),this.$lightbox.find(".lb-prev").on("click",function(){return 0===b.currentImageIndex?b.changeImage(b.album.length-1):b.changeImage(b.currentImageIndex-1),!1}),this.$lightbox.find(".lb-next").on("click",function(){return b.currentImageIndex===b.album.length-1?b.changeImage(0):b.changeImage(b.currentImageIndex+1),!1}),this.$nav.on("mousedown",function(a){3===a.which&&(b.$nav.css("pointer-events","none"),b.$lightbox.one("contextmenu",function(){setTimeout(function(){this.$nav.css("pointer-events","auto")}.bind(b),0)}))}),this.$lightbox.find(".lb-loader, .lb-close").on("click",function(){return b.end(),!1})}},b.prototype.start=function(b){function c(a){d.album.push({alt:a.attr("data-alt"),link:a.attr("href"),title:a.attr("data-title")||a.attr("title")})}var d=this,e=a(window);e.on("resize",a.proxy(this.sizeOverlay,this)),this.sizeOverlay(),this.album=[];var f,g=0,h=b.attr("data-lightbox");if(h){f=a(b.prop("tagName")+'[data-lightbox="'+h+'"]');for(var i=0;i<f.length;i=++i)c(a(f[i])),f[i]===b[0]&&(g=i)}else if("lightbox"===b.attr("rel"))c(b);else{f=a(b.prop("tagName")+'[rel="'+b.attr("rel")+'"]');for(var j=0;j<f.length;j=++j)c(a(f[j])),f[j]===b[0]&&(g=j)}var k=e.scrollTop()+this.options.positionFromTop,l=e.scrollLeft();this.$lightbox.css({top:k+"px",left:l+"px"}).fadeIn(this.options.fadeDuration),this.options.disableScrolling&&a("body").addClass("lb-disable-scrolling"),this.changeImage(g)},b.prototype.changeImage=function(b){var c=this,d=this.album[b].link,e=d.split(".").slice(-1)[0],f=this.$lightbox.find(".lb-image");this.disableKeyboardNav(),this.$overlay.fadeIn(this.options.fadeDuration),a(".lb-loader").fadeIn("slow"),this.$lightbox.find(".lb-image, .lb-nav, .lb-prev, .lb-next, .lb-dataContainer, .lb-numbers, .lb-caption").hide(),this.$outerContainer.addClass("animating");var g=new Image;g.onload=function(){var h,i,j,k,l,m;f.attr({alt:c.album[b].alt,src:d}),a(g),f.width(g.width),f.height(g.height),m=a(window).width(),l=a(window).height(),k=m-c.containerPadding.left-c.containerPadding.right-c.imageBorderWidth.left-c.imageBorderWidth.right-20,j=l-c.containerPadding.top-c.containerPadding.bottom-c.imageBorderWidth.top-c.imageBorderWidth.bottom-c.options.positionFromTop-70,"svg"===e&&(0!==g.width&&0!==g.height||(f.width(k),f.height(j))),c.options.fitImagesInViewport?(c.options.maxWidth&&c.options.maxWidth<k&&(k=c.options.maxWidth),c.options.maxHeight&&c.options.maxHeight<j&&(j=c.options.maxHeight)):(k=c.options.maxWidth||g.width||k,j=c.options.maxHeight||g.height||j),(g.width>k||g.height>j)&&(g.width/k>g.height/j?(i=k,h=parseInt(g.height/(g.width/i),10),f.width(i),f.height(h)):(h=j,i=parseInt(g.width/(g.height/h),10),f.width(i),f.height(h))),c.sizeContainer(f.width(),f.height())},g.src=this.album[b].link,this.currentImageIndex=b},b.prototype.sizeOverlay=function(){var b=this;setTimeout(function(){b.$overlay.width(a(document).width()).height(a(document).height())},0)},b.prototype.sizeContainer=function(a,b){function c(){d.$lightbox.find(".lb-dataContainer").width(g),d.$lightbox.find(".lb-prevLink").height(h),d.$lightbox.find(".lb-nextLink").height(h),d.$overlay.focus(),d.showImage()}var d=this,e=this.$outerContainer.outerWidth(),f=this.$outerContainer.outerHeight(),g=a+this.containerPadding.left+this.containerPadding.right+this.imageBorderWidth.left+this.imageBorderWidth.right,h=b+this.containerPadding.top+this.containerPadding.bottom+this.imageBorderWidth.top+this.imageBorderWidth.bottom;e!==g||f!==h?this.$outerContainer.animate({width:g,height:h},this.options.resizeDuration,"swing",function(){c()}):c()},b.prototype.showImage=function(){this.$lightbox.find(".lb-loader").stop(!0).hide(),this.$lightbox.find(".lb-image").fadeIn(this.options.imageFadeDuration),this.updateNav(),this.updateDetails(),this.preloadNeighboringImages(),this.enableKeyboardNav()},b.prototype.updateNav=function(){var a=!1;try{document.createEvent("TouchEvent"),a=!!this.options.alwaysShowNavOnTouchDevices}catch(a){}this.$lightbox.find(".lb-nav").show(),this.album.length>1&&(this.options.wrapAround?(a&&this.$lightbox.find(".lb-prev, .lb-next").css("opacity","1"),this.$lightbox.find(".lb-prev, .lb-next").show()):(this.currentImageIndex>0&&(this.$lightbox.find(".lb-prev").show(),a&&this.$lightbox.find(".lb-prev").css("opacity","1")),this.currentImageIndex<this.album.length-1&&(this.$lightbox.find(".lb-next").show(),a&&this.$lightbox.find(".lb-next").css("opacity","1"))))},b.prototype.updateDetails=function(){var a=this;if(void 0!==this.album[this.currentImageIndex].title&&""!==this.album[this.currentImageIndex].title){var b=this.$lightbox.find(".lb-caption");this.options.sanitizeTitle?b.text(this.album[this.currentImageIndex].title):b.html(this.album[this.currentImageIndex].title),b.fadeIn("fast")}if(this.album.length>1&&this.options.showImageNumberLabel){var c=this.imageCountLabel(this.currentImageIndex+1,this.album.length);this.$lightbox.find(".lb-number").text(c).fadeIn("fast")}else this.$lightbox.find(".lb-number").hide();this.$outerContainer.removeClass("animating"),this.$lightbox.find(".lb-dataContainer").fadeIn(this.options.resizeDuration,function(){return a.sizeOverlay()})},b.prototype.preloadNeighboringImages=function(){if(this.album.length>this.currentImageIndex+1){(new Image).src=this.album[this.currentImageIndex+1].link}if(this.currentImageIndex>0){(new Image).src=this.album[this.currentImageIndex-1].link}},b.prototype.enableKeyboardNav=function(){this.$lightbox.on("keyup.keyboard",a.proxy(this.keyboardAction,this)),this.$overlay.on("keyup.keyboard",a.proxy(this.keyboardAction,this))},b.prototype.disableKeyboardNav=function(){this.$lightbox.off(".keyboard"),this.$overlay.off(".keyboard")},b.prototype.keyboardAction=function(a){var b=a.keyCode;27===b?(a.stopPropagation(),this.end()):37===b?0!==this.currentImageIndex?this.changeImage(this.currentImageIndex-1):this.options.wrapAround&&this.album.length>1&&this.changeImage(this.album.length-1):39===b&&(this.currentImageIndex!==this.album.length-1?this.changeImage(this.currentImageIndex+1):this.options.wrapAround&&this.album.length>1&&this.changeImage(0))},b.prototype.end=function(){this.disableKeyboardNav(),a(window).off("resize",this.sizeOverlay),this.$lightbox.fadeOut(this.options.fadeDuration),this.$overlay.fadeOut(this.options.fadeDuration),this.options.disableScrolling&&a("body").removeClass("lb-disable-scrolling")},new b});
+//# sourceMappingURL=lightbox.min.map</script>
+    <style>.lb-loader,.lightbox{text-align:center;line-height:0;position:absolute;left:0}body.lb-disable-scrolling{overflow:hidden}.lightboxOverlay{position:absolute;top:0;left:0;z-index:9999;background-color:#000;filter:alpha(Opacity=80);opacity:.8;display:none}.lightbox{width:100%;z-index:10000;font-weight:400;outline:0}.lightbox .lb-image{display:block;height:auto;max-width:inherit;max-height:none;border-radius:3px;border:4px solid #fff}.lightbox a img{border:none}.lb-outerContainer{position:relative;width:250px;height:250px;margin:0 auto;border-radius:4px;background-color:#fff}.lb-outerContainer:after{content:"";display:table;clear:both}.lb-loader{top:43%;height:25%;width:100%}.lb-cancel{display:block;width:32px;height:32px;margin:0 auto;background:url(../images/loading.gif) no-repeat}.lb-nav{position:absolute;top:0;left:0;height:100%;width:100%;z-index:10}.lb-container>.nav{left:0}.lb-nav a{outline:0;background-image:url(data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)}.lb-next,.lb-prev{height:100%;cursor:pointer;display:block}.lb-nav a.lb-prev{width:34%;left:0;float:left;background:url(../images/prev.png) left 48% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}.lb-nav a.lb-prev:hover{filter:alpha(Opacity=100);opacity:1}.lb-nav a.lb-next{width:64%;right:0;float:right;background:url(../images/next.png) right 48% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}.lb-nav a.lb-next:hover{filter:alpha(Opacity=100);opacity:1}.lb-dataContainer{margin:0 auto;padding-top:5px;width:100%;border-bottom-left-radius:4px;border-bottom-right-radius:4px}.lb-dataContainer:after{content:"";display:table;clear:both}.lb-data{padding:0 4px;color:#ccc}.lb-data .lb-details{width:85%;float:left;text-align:left;line-height:1.1em}.lb-data .lb-caption{font-size:13px;font-weight:700;line-height:1em}.lb-data .lb-caption a{color:#4ae}.lb-data .lb-number{display:block;clear:left;padding-bottom:1em;font-size:12px;color:#999}.lb-data .lb-close{display:block;float:right;width:30px;height:30px;background:url(../images/close.png) top right no-repeat;text-align:right;outline:0;filter:alpha(Opacity=70);opacity:.7;-webkit-transition:opacity .2s;-moz-transition:opacity .2s;-o-transition:opacity .2s;transition:opacity .2s}.lb-data .lb-close:hover{cursor:pointer;filter:alpha(Opacity=100);opacity:1}</style>
+    <style>.masonry-container {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center; }
+
+.masonry-grid-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 320px; }
+  .masonry-grid-item h1 {
+    text-transform: capitalize; }
+  .masonry-grid-item img {
+    width: 100%;
+    height: auto; }
+  .masonry-grid-item .text-only {
+    padding: 1em 2em;
+    text-align: justify;
+    hyphens: auto; }
+  .masonry-grid-item > div:first-child {
+    margin-top: 1em; }
+  .masonry-grid-item > div:last-child {
+    margin-bottom: 1em; }
+  .masonry-grid-item > div {
+    position: relative;
+    width: calc(100% - 1em); }
+  .masonry-grid-item .my_number {
+    position: absolute;
+    font-size: 4em;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+  .masonry-grid-item > div:nth-child(2) {
+    margin-top: .3em;
+    padding: 0 .5em;
+    font-size: .8em; }
+  .masonry-grid-item.masonry-width-0 {
+    width: 320px !important; }
+  .masonry-grid-item .my_number:after {
+    content: ":1"; }
+
+/* there are two parameters that determine the size of each masonry item: "column width" and "column gap" */
+/* "column width" sets the preferred column width of the element which will reduce automatically when the viewport is smaller than the setting */
+/* "column gap" sets the number of column spaces to leave open on the sides of the masonry element */
+/* "width" takes priority over "gap" so if both are set "width" will override */
+/* if you have an element with "column width" of 2 you can set its adjacent element to "column gap" of 2 and they will occupy an entire row (provided that the masonry algorythm doesn't reorder the itmes)  */
+/* masonry items, by default, have columns subtracted from their class setting by the number columns there are fewer in the viewport than the ideal column width (5)  */
+/* if .masonry-reduction-locked is applied the masonry item will not have columns subtracted with reduced viewport size. instead they will have columns subtracted only to fit within the viewport  */
+/* .masonry-expansive will add the number of columns to the masonry element corresponding to the number of columns the viewport is greater than the ideal */
+@media only screen and (max-height: 640px) {
+  /* force single column elements when viewport height is small (horizontal phones) because two-column vertical images are way too big */
+  .masonry-grid-item {
+    width: 320px !important; } }
+@media only screen and (min-width: 640px) {
+  .masonry-grid-item.masonry-gap-2 {
+    width: 640px; }
+  /* gap-2 elements work better when they don't reduce to 1-col when viewport is <= 2col */ }
+
+
+@media only screen and (min-width: 320px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 320px; }
+  .masonry-grid-item .my_number:after {
+    content: ":1"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 320px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-0 {
+    width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-0 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-1 {
+      width: -320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-0 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-1 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-2 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-3 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-4 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-5 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-6 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-7 {
+      width: 0px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-0 .masonry-grid-item.masonry-width-8 {
+      width: 0px; } }
+
+@media only screen and (min-width: 640px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 640px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item .my_number:after {
+    content: ":2"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 640px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; } }
+
+@media only screen and (min-width: 960px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 960px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-2 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 960px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item.masonry-width-2 {
+    width: 640px; }
+  .masonry-grid-item .my_number:after {
+    content: ":3"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 960px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-2 {
+    width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-0 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-6 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-7 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-8 {
+      width: 640px; } }
+
+@media only screen and (min-width: 1280px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 960px; }
+  .masonry-grid-item.masonry-gap-2 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-3 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 1280px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item.masonry-width-2 {
+    width: 640px; }
+  .masonry-grid-item.masonry-width-3 {
+    width: 960px; }
+  .masonry-grid-item .my_number:after {
+    content: ":4"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 1280px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-2 {
+    width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-0 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-6 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-7 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-8 {
+      width: 640px; }
+  .masonry-container.masonry-col-3 {
+    width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-0 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-1 {
+      width: 640px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-4 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-5 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-6 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-7 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-8 {
+      width: 960px; } }
+
+@media only screen and (min-width: 1600px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 1600px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-gap-2 {
+    width: 960px; }
+  .masonry-grid-item.masonry-gap-3 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-4 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 1600px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item.masonry-width-2 {
+    width: 640px; }
+  .masonry-grid-item.masonry-width-3 {
+    width: 960px; }
+  .masonry-grid-item.masonry-width-4 {
+    width: 1280px; }
+  .masonry-grid-item .my_number:after {
+    content: ":5"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 1600px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-2 {
+    width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-0 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-6 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-7 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-8 {
+      width: 640px; }
+  .masonry-container.masonry-col-3 {
+    width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-0 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-1 {
+      width: 640px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-4 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-5 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-6 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-7 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-8 {
+      width: 960px; }
+  .masonry-container.masonry-col-4 {
+    width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-0 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-1 {
+      width: 960px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-4 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-5 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-6 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-7 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-8 {
+      width: 1280px; } }
+
+@media only screen and (min-width: 1920px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 1920px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 1600px; }
+  .masonry-grid-item.masonry-gap-2 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-gap-3 {
+    width: 960px; }
+  .masonry-grid-item.masonry-gap-4 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-5 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 1920px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item.masonry-width-2 {
+    width: 640px; }
+  .masonry-grid-item.masonry-width-3 {
+    width: 960px; }
+  .masonry-grid-item.masonry-width-4 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-width-5 {
+    width: 1600px; }
+  .masonry-grid-item .my_number:after {
+    content: ":6"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 1920px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-2 {
+    width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-0 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-6 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-7 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-8 {
+      width: 640px; }
+  .masonry-container.masonry-col-3 {
+    width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-0 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-1 {
+      width: 640px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-4 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-5 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-6 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-7 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-8 {
+      width: 960px; }
+  .masonry-container.masonry-col-4 {
+    width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-0 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-1 {
+      width: 960px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-4 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-5 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-6 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-7 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-8 {
+      width: 1280px; }
+  .masonry-container.masonry-col-5 {
+    width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-0 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-1 {
+      width: 1280px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-2 {
+      width: 960px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-5 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-6 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-7 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-8 {
+      width: 1600px; } }
+
+@media only screen and (min-width: 2240px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 2240px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 1920px; }
+  .masonry-grid-item.masonry-gap-2 {
+    width: 1600px; }
+  .masonry-grid-item.masonry-gap-3 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-gap-4 {
+    width: 960px; }
+  .masonry-grid-item.masonry-gap-5 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-6 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 2240px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item.masonry-width-2 {
+    width: 640px; }
+  .masonry-grid-item.masonry-width-3 {
+    width: 960px; }
+  .masonry-grid-item.masonry-width-4 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-width-5 {
+    width: 1600px; }
+  .masonry-grid-item.masonry-width-6 {
+    width: 1920px; }
+  .masonry-grid-item .my_number:after {
+    content: ":7"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 2240px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-2 {
+    width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-0 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-6 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-7 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-8 {
+      width: 640px; }
+  .masonry-container.masonry-col-3 {
+    width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-0 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-1 {
+      width: 640px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-4 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-5 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-6 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-7 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-8 {
+      width: 960px; }
+  .masonry-container.masonry-col-4 {
+    width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-0 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-1 {
+      width: 960px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-4 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-5 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-6 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-7 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-8 {
+      width: 1280px; }
+  .masonry-container.masonry-col-5 {
+    width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-0 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-1 {
+      width: 1280px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-2 {
+      width: 960px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-5 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-6 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-7 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-8 {
+      width: 1600px; }
+  .masonry-container.masonry-col-6 {
+    width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-0 {
+      width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-1 {
+      width: 1600px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-2 {
+      width: 1280px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-width-6 {
+      width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-width-7 {
+      width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-width-8 {
+      width: 1920px; } }
+
+@media only screen and (min-width: 2560px) {
+  .masonry-grid-item.masonry-gap-0 {
+    width: 2560px; }
+  .masonry-grid-item.masonry-gap-1 {
+    width: 2240px; }
+  .masonry-grid-item.masonry-gap-2 {
+    width: 1920px; }
+  .masonry-grid-item.masonry-gap-3 {
+    width: 1600px; }
+  .masonry-grid-item.masonry-gap-4 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-gap-5 {
+    width: 960px; }
+  .masonry-grid-item.masonry-gap-6 {
+    width: 640px; }
+  .masonry-grid-item.masonry-gap-7 {
+    width: 320px; }
+  .masonry-grid-item[class*="masonry-width-"] {
+    width: 2560px; }
+  .masonry-grid-item.masonry-width-1 {
+    width: 320px; }
+  .masonry-grid-item.masonry-width-2 {
+    width: 640px; }
+  .masonry-grid-item.masonry-width-3 {
+    width: 960px; }
+  .masonry-grid-item.masonry-width-4 {
+    width: 1280px; }
+  .masonry-grid-item.masonry-width-5 {
+    width: 1600px; }
+  .masonry-grid-item.masonry-width-6 {
+    width: 1920px; }
+  .masonry-grid-item.masonry-width-7 {
+    width: 2240px; }
+  .masonry-grid-item .my_number:after {
+    content: ":8"; }
+  .masonry-container[class*='masonry-col-'] {
+    width: 2560px; }
+  .masonry-container.masonry-col-1 {
+    width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-0 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-1 .masonry-grid-item.masonry-width-8 {
+      width: 320px; }
+  .masonry-container.masonry-col-2 {
+    width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-0 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-1 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-6 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-7 {
+      width: 640px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-2 .masonry-grid-item.masonry-width-8 {
+      width: 640px; }
+  .masonry-container.masonry-col-3 {
+    width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-0 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-1 {
+      width: 640px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-2 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-4 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-5 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-6 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-7 {
+      width: 960px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-3 .masonry-grid-item.masonry-width-8 {
+      width: 960px; }
+  .masonry-container.masonry-col-4 {
+    width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-0 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-1 {
+      width: 960px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-2 {
+      width: 640px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-3 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-4 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-5 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-6 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-7 {
+      width: 1280px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-4 .masonry-grid-item.masonry-width-8 {
+      width: 1280px; }
+  .masonry-container.masonry-col-5 {
+    width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-0 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-1 {
+      width: 1280px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-2 {
+      width: 960px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-3 {
+      width: 640px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-4 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-5 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-6 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-7 {
+      width: 1600px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-5 .masonry-grid-item.masonry-width-8 {
+      width: 1600px; }
+  .masonry-container.masonry-col-6 {
+    width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-0 {
+      width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-1 {
+      width: 1600px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-2 {
+      width: 1280px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-3 {
+      width: 960px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-4 {
+      width: 640px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-5 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-width-6 {
+      width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-width-7 {
+      width: 1920px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-6 .masonry-grid-item.masonry-width-8 {
+      width: 1920px; }
+  .masonry-container.masonry-col-7 {
+    width: 2240px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item[class*="masonry-gap-"] {
+      width: 320px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-0 {
+      width: 2240px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-1 {
+      width: 1920px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-2 {
+      width: 1600px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-3 {
+      width: 1280px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-4 {
+      width: 960px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-5 {
+      width: 640px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-6 {
+      width: 320px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-7 {
+      width: 320px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-width-7 {
+      width: 2240px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-gap-8 {
+      width: 320px; }
+    .masonry-container.masonry-col-7 .masonry-grid-item.masonry-width-8 {
+      width: 2240px; } }
+
+.lightbox {
+  top: 50% !important;
+  transform: translateY(-50%);
+  position: fixed;
+  transition: all .2s ease; }
+</style>
+    
+
+    <style>@charset "UTF-8";
+.article-preview .image-container > .overlay, .article-preview .image-container > .fixed-height-spacer, .article-preview-3 .image-container > .overlay, .article-preview-3.image-background .image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+body {
+  font-family: "Roboto Condensed", sans-serif; }
+  body.has-scrolled top-header {
+    top: 0; }
+  body.eij a {
+    transition: all 200ms ease; }
+
+.eij-system-font {
+  font-family: "Roboto Condensed", sans-serif; }
+
+.eij-article-font {
+  font-family: "Libre Baskerville", serif; }
+
+.btn-eij {
+  color: white;
+  background-color: #00193F; }
+  .btn-eij:hover {
+    color: #00193F;
+    background-color: white; }
+
+.coverall {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 11; }
+
+a.more-posts-please, .more-posts-loading {
+  text-align: center;
+  width: 100%;
+  padding: 2em;
+  color: #20809E;
+  text-decoration: none; }
+  a.more-posts-please:hover, .more-posts-loading:hover {
+    color: #5fc0df;
+    text-decoration: none; }
+  a.more-posts-please > div > i, .more-posts-loading > div > i {
+    margin-top: 10px;
+    display: block;
+    font-size: 3em; }
+
+.sidebar {
+  border-left: 1px solid; }
+
+.pagination {
+  justify-content: center;
+  margin: 2em 0; }
+  .pagination li a {
+    border-radius: 6px !important;
+    padding: .8em 1em; }
+  .pagination li.active a {
+    color: white; }
+    .pagination li.active a:hover {
+      text-decoration: none; }
+
+top-header {
+  z-index: 999;
+  top: -120px;
+  left: 0;
+  position: fixed;
+  background: white;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.5);
+  width: 100%;
+  transition: all .25s ease; }
+  top-header .navbar {
+    transition: all .25s ease;
+    padding: .1em 0; }
+    top-header .navbar .navbar-brand.logo img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: auto;
+      height: 36px;
+      transition: all .25s ease;
+      margin: .5em 0; }
+      top-header .navbar .navbar-brand.logo img.eij-logo-white {
+        opacity: 0; }
+      top-header .navbar .navbar-brand.logo img.eij-logo-blue {
+        opacity: 1; }
+    top-header .navbar .navbar-toggler {
+      position: relative;
+      transition: all .25s ease;
+      border: none;
+      padding: 16px 4px; }
+    .has-scrolled.scrolled-down top-header .navbar img {
+      height: 16px;
+      margin: 4px 0; }
+    .has-scrolled.scrolled-down top-header .navbar .navbar-toggler {
+      font-size: 16px;
+      padding: 2px 4px; }
+
+body.no-footer footer {
+  display: none; }
+
+body.feature-presentation top-header {
+  top: 0;
+  background: transparent;
+  box-shadow: none; }
+  body.feature-presentation top-header .eij-logo-white {
+    opacity: 1 !important; }
+  body.feature-presentation top-header .eij-logo-blue {
+    opacity: 0 !important; }
+  body.feature-presentation top-header .navbar-toggler {
+    color: white; }
+  body.feature-presentation top-header:hover {
+    background: white;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.5); }
+    body.feature-presentation top-header:hover .eij-logo-white {
+      opacity: 0 !important; }
+    body.feature-presentation top-header:hover .eij-logo-blue {
+      opacity: 1 !important; }
+    body.feature-presentation top-header:hover .navbar-toggler {
+      color: #00193F; }
+
+body.feature-presentation.has-scrolled top-header {
+  background: white;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.5); }
+  body.feature-presentation.has-scrolled top-header .eij-logo-white {
+    opacity: 0 !important; }
+  body.feature-presentation.has-scrolled top-header .eij-logo-blue {
+    opacity: 1 !important; }
+  body.feature-presentation.has-scrolled top-header .navbar-toggler {
+    color: #00193F; }
+
+page-header {
+  position: relative; }
+  body.feature-presentation page-header {
+    display: none; }
+  page-header a {
+    color: inherit;
+    text-decoration: none; }
+  page-header .navbar {
+    padding: 0; }
+    page-header .navbar .navbar-toggler {
+      border: none; }
+  page-header .navbar-brand {
+    height: 80px; }
+    page-header .navbar-brand img {
+      margin: 15px 0 0.5em; }
+  page-header .big-callouts > a, page-header .big-callouts > .dropdown > a {
+    border: 2px solid white;
+    color: #00193F;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: .5em;
+    margin: .25em 0;
+    padding: .25em .5em; }
+    page-header .big-callouts > a:hover, page-header .big-callouts > .dropdown > a:hover {
+      background-color: #00193F;
+      color: white; }
+  page-header .tier1 .logo img {
+    width: 100%;
+    margin: 25px 0 15px; }
+  page-header .tier1 .eij-tagline {
+    font-size: .8em;
+    padding: 10px .5rem 21px 0; }
+  page-header .tier2 .nav {
+    background-color: #00193F;
+    border-radius: .5em;
+    margin-bottom: 15px; }
+    page-header .tier2 .nav a {
+      color: white;
+      font-weight: 900;
+      font-size: 1em;
+      text-transform: uppercase;
+      position: relative; }
+      page-header .tier2 .nav a:first-of-type {
+        border-top-left-radius: .35em;
+        border-bottom-left-radius: .35em; }
+      page-header .tier2 .nav a:last-of-type {
+        border-top-right-radius: .35em;
+        border-bottom-right-radius: .35em; }
+      page-header .tier2 .nav a:hover {
+        background-color: #599bff; }
+      page-header .tier2 .nav a.active {
+        background-color: #599bff;
+        box-shadow: inset 0 .5em 1em -.5em black; }
+        page-header .tier2 .nav a.active:after {
+          top: 100%;
+          left: 50%;
+          border: solid transparent;
+          content: " ";
+          height: 0;
+          width: 0;
+          position: absolute;
+          pointer-events: none;
+          border-color: rgba(0, 25, 63, 0);
+          border-top-color: #599bff;
+          border-width: 1em;
+          margin-left: -1em; }
+        page-header .tier2 .nav a.active:hover {
+          background-color: #599bff; }
+  page-header .navbar-brand > .logo {
+    width: 200px; }
+    page-header .navbar-brand > .logo .eij-logo-white {
+      opacity: 1; }
+    page-header .navbar-brand > .logo .eij-logo-blue {
+      opacity: 0; }
+    page-header .navbar-brand > .logo img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: auto;
+      height: 36px;
+      transition: all .25s ease;
+      margin: 1em 0; }
+      page-header .navbar-brand > .logo img.eij-logo-white {
+        opacity: 0; }
+      page-header .navbar-brand > .logo img.eij-logo-blue {
+        opacity: 1; }
+
+.magazine-subnavigation .nav a {
+  color: #00193F;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 100;
+  word-spacing: 0.2em; }
+  .magazine-subnavigation .nav a:before {
+    content: "\f0da";
+    font-family: "FontAwesome",cursive;
+    margin-right: 1.5em; }
+
+.magazine-entry .article-tags .article-tag {
+  color: #F96527; }
+
+section.related-articles {
+  background-color: #f6f6f6;
+  padding-bottom: 2em !important;
+  padding-top: 2em;
+  box-shadow: inset 0 0 1em -1em black; }
+  section.related-articles + section {
+    padding-top: 2em; }
+
+section.comments input {
+  width: 100%; }
+
+section.comments textarea {
+  width: 100%;
+  min-height: 180px; }
+
+section.comments .required {
+  font-size: .7rem;
+  padding: .5em; }
+
+section.comments em {
+  color: gray; }
+
+section.page {
+  margin-top: 3em;
+  margin-bottom: 3em; }
+
+section#home-top {
+  padding-bottom: 1em; }
+
+section .section-head {
+  color: white;
+  position: relative;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1em;
+  padding: .75em;
+  margin: 1em 0;
+  line-height: 1em;
+  z-index: 6; }
+  section .section-head:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #00193F;
+    z-index: -1;
+    border-radius: 5px; }
+
+section div[class^='col-'] h1:first-of-type {
+  margin-left: 0;
+  margin-right: 0; }
+
+.article-preview {
+  font-family: "Libre Baskerville", serif;
+  transition: background-color .25s ease; }
+  .article-preview.article-preview-image-top .card-body {
+    padding: .75em .25em .25em; }
+  .article-preview.article-preview-image-bottom .card-body {
+    padding: .25em .25em .75em; }
+  .article-preview.article-preview-image-left .card-body {
+    padding: .25em .25em .25em .75em; }
+  .article-preview.article-preview-image-right .card-body {
+    padding: .25em .75em .25em .25em; }
+  .article-preview.card {
+    border: none; }
+  .related-articles .article-preview {
+    border: 1px solid #ddd;
+    padding: 1.5rem; }
+    .related-articles .article-preview:after {
+      content: "Read more...";
+      display: block;
+      position: relative;
+      font-size: 0.6em;
+      color: #666;
+      margin-top: .5em;
+      text-align: right; }
+  .article-preview .image-container {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-image: none;
+    z-index: 0; }
+    .article-preview .image-container > .overlay {
+      transition: background-color .25s ease;
+      z-index: 2; }
+    .article-preview .image-container > .fixed-height-spacer {
+      position: relative;
+      height: 90vh; }
+      @media (min-width: 576px) {
+        .article-preview .image-container > .fixed-height-spacer {
+          height: 540px; } }
+  .article-preview.article-preview-text-over-image .image-container > img {
+    margin-bottom: 0; }
+    @media (max-width: 576px) {
+      .article-preview.article-preview-text-over-image .image-container > img {
+        display: none; } }
+  .article-preview.article-preview-text-over-image .image-container > .overlay {
+    background-color: rgba(0, 0, 0, 0.2); }
+  .article-preview.article-preview-text-over-image .card-body {
+    position: absolute;
+    color: white;
+    bottom: 0;
+    font-size: 1em;
+    width: 100%;
+    z-index: 1;
+    height: 100%;
+    padding: 0; }
+    .article-preview.article-preview-text-over-image .card-body .text-container {
+      position: relative;
+      height: 100%;
+      padding: 1em; }
+      .article-preview.article-preview-text-over-image .card-body .text-container .card-title {
+        font-size: 1.5em;
+        font-weight: 900; }
+      .article-preview.article-preview-text-over-image .card-body .text-container .card-text {
+        bottom: 0;
+        font-weight: 700;
+        font-size: .9em;
+        line-height: 1.6em; }
+        .article-preview.article-preview-text-over-image .card-body .text-container .card-text.subhead {
+          font-size: 1.5em;
+          line-height: 1.5em;
+          font-style: italic; }
+      .article-preview.article-preview-text-over-image .card-body .text-container .text-muted {
+        color: #eee !important;
+        font-size: .9rem;
+        font-weight: 400; }
+      .article-preview.article-preview-text-over-image .card-body .text-container .card-footer {
+        background-color: transparent;
+        padding: 1em;
+        border-top: none;
+        position: relative; }
+  .article-preview .card-footer {
+    border-top: none;
+    background-color: inherit;
+    font-size: .7em;
+    line-height: 1.6em; }
+    .article-preview .card-footer .topic-tag {
+      margin-right: .5em; }
+      .article-preview .card-footer .topic-tag:hover {
+        text-decoration: underline; }
+  .fixed-height .article-preview .image-container {
+    height: 320px; }
+    .fixed-height .article-preview .image-container > img {
+      display: none; }
+  .fixed-height .article-preview.article-preview-text-over-image .image-container {
+    height: 540px; }
+  .fixed-height .article-preview.article-preview-text-over-image .card-body {
+    height: 100%; }
+  .fixed-height .article-preview .card-body {
+    height: auto; }
+  .fixed-height .article-preview .card-footer {
+    position: absolute;
+    bottom: 0; }
+  .article-preview a {
+    text-decoration: none;
+    color: inherit; }
+  .article-preview.card {
+    margin-top: 15px;
+    margin-bottom: 15px; }
+    .article-preview.card img {
+      position: relative;
+      width: 100%;
+      height: auto; }
+  .article-preview.future-post.article-preview-text-over-image .text-container .coming-soon {
+    border: 3px solid;
+    color: inherit; }
+  .article-preview.future-post .image-container {
+    opacity: .5; }
+    .article-preview.future-post .image-container .overlay {
+      background-color: rgba(55, 55, 55, 0.5); }
+  .article-preview.future-post .text-container {
+    opacity: .5; }
+    .article-preview.future-post .text-container .coming-soon {
+      color: gray;
+      border-radius: 2em;
+      padding: .25em .5em;
+      display: inline-block;
+      border: 2px solid;
+      font-weight: 700;
+      font-size: .9em; }
+  .article-preview.future-post .future-post-callout {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity .25s ease; }
+    .article-preview.future-post .future-post-callout > div {
+      position: absolute;
+      width: 90%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: .75em;
+      padding: .75em;
+      font-size: .8em;
+      box-shadow: 0 .25em 1em -.5em black; }
+    .article-preview.future-post .future-post-callout:hover {
+      opacity: 1; }
+  .article-preview.future-post.active .future-post-callout {
+    opacity: 1; }
+  .article-preview .card-body h1, .article-preview .card-body h2, .article-preview .card-body h3, .article-preview .card-body h4, .article-preview .card-body h5, .article-preview .card-body h6 {
+    font-weight: 700; }
+  .article-preview .card-body .image-container {
+    background-image: none; }
+    .article-preview .card-body .image-container img {
+      width: 100%;
+      height: auto; }
+  .article-preview .card-body .card-title {
+    font-weight: 700;
+    font-size: 1.6em; }
+  .article-preview .card-body .card-text {
+    font-size: .8em; }
+  .article-preview .card-body .credits {
+    font-size: .7rem;
+    line-height: 1.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: normal; }
+    .article-preview .card-body .credits span.author {
+      text-transform: uppercase; }
+    .article-preview .card-body .credits span:after {
+      font-style: normal;
+      content: "•";
+      margin-right: .5em;
+      margin-left: .5em; }
+    .article-preview .card-body .credits span:first-of-type:before {
+      content: "by";
+      margin-right: .5em; }
+    .article-preview .card-body .credits span:last-of-type:after {
+      content: ""; }
+  .article-preview:hover {
+    background: rgba(0, 0, 0, 0); }
+    .article-preview:hover .image-container > .overlay {
+      background-color: rgba(0, 0, 0, 0.1); }
+
+.journal-article {
+  font-family: "Libre Baskerville", serif;
+  padding-bottom: 3em; }
+  @media screen and (min-width: 576px) {
+    .journal-article {
+      padding-top: 3em; } }
+  .journal-article:first-of-type {
+    padding-bottom: 0; }
+  .journal-article .article-info {
+    font-size: .8em; }
+    .journal-article .article-info .credits {
+      margin-bottom: 1em; }
+      .journal-article .article-info .credits .contribution {
+        font-size: .9em;
+        line-height: 1.5em;
+        font-weight: 400; }
+    .journal-article .article-info.article-info-head {
+      font-weight: 700;
+      margin: 2em 0; }
+      .journal-article .article-info.article-info-head span.author {
+        text-transform: uppercase;
+        letter-spacing: 2px; }
+      .journal-article .article-info.article-info-head span:after {
+        font-family: "FontAwesome";
+        font-style: normal;
+        content: "•";
+        margin-right: .5em;
+        margin-left: .5em; }
+      .journal-article .article-info.article-info-head span:last-of-type:after {
+        content: ""; }
+      .journal-article .article-info.article-info-head .media-partner {
+        margin-top: 1.5em; }
+    .journal-article .article-info.article-info-foot {
+      font-weight: 400;
+      margin-top: 2.5em;
+      font-family: "Roboto Condensed", sans-serif; }
+  .journal-article p.blockquote {
+    padding: 2em 3em; }
+  .journal-article h1, .journal-article h3, .journal-article h4, .journal-article h5, .journal-article h6 {
+    font-weight: 700; }
+  .journal-article .pullquote, .journal-article [class*="pullQuote"] {
+    font-weight: 700;
+    margin: 1em;
+    word-wrap: normal;
+    hyphens: none;
+    font-size: 1em;
+    width: 50%; }
+    @media (min-width: 576px) {
+      .journal-article .pullquote, .journal-article [class*="pullQuote"] {
+        font-size: 1.1em; } }
+    @media (min-width: 768px) {
+      .journal-article .pullquote, .journal-article [class*="pullQuote"] {
+        font-size: 1.2em; } }
+    @media (min-width: 992px) {
+      .journal-article .pullquote, .journal-article [class*="pullQuote"] {
+        font-size: 1.3em; } }
+    @media (min-width: 1200px) {
+      .journal-article .pullquote, .journal-article [class*="pullQuote"] {
+        font-size: 1.4em; } }
+    .journal-article .pullquote.pullquote-left, .journal-article .pullquote.pullQuoteLeft, .journal-article [class*="pullQuote"].pullquote-left, .journal-article [class*="pullQuote"].pullQuoteLeft {
+      margin-left: -1em;
+      float: left;
+      border-left: 0.75em solid #F96527;
+      padding-left: .75em; }
+      @media (min-width: 576px) {
+        .journal-article .pullquote.pullquote-left, .journal-article .pullquote.pullQuoteLeft, .journal-article [class*="pullQuote"].pullquote-left, .journal-article [class*="pullQuote"].pullQuoteLeft {
+          margin-left: -8.3vw; } }
+      @media (min-width: 768px) {
+        .journal-article .pullquote.pullquote-left, .journal-article .pullquote.pullQuoteLeft, .journal-article [class*="pullQuote"].pullquote-left, .journal-article [class*="pullQuote"].pullQuoteLeft {
+          margin-left: -12.5vw; } }
+      @media (min-width: 992px) {
+        .journal-article .pullquote.pullquote-left, .journal-article .pullquote.pullQuoteLeft, .journal-article [class*="pullQuote"].pullquote-left, .journal-article [class*="pullQuote"].pullQuoteLeft {
+          margin-left: -25%; } }
+    .journal-article .pullquote.pullquote-right, .journal-article .pullquote.pullQuoteRight, .journal-article [class*="pullQuote"].pullquote-right, .journal-article [class*="pullQuote"].pullQuoteRight {
+      margin-right: -1em;
+      float: right;
+      border-right: 0.75em solid #F96527;
+      padding-right: .75em; }
+      @media (min-width: 576px) {
+        .journal-article .pullquote.pullquote-right, .journal-article .pullquote.pullQuoteRight, .journal-article [class*="pullQuote"].pullquote-right, .journal-article [class*="pullQuote"].pullQuoteRight {
+          margin-right: -8.3vw; } }
+      @media (min-width: 768px) {
+        .journal-article .pullquote.pullquote-right, .journal-article .pullquote.pullQuoteRight, .journal-article [class*="pullQuote"].pullquote-right, .journal-article [class*="pullQuote"].pullQuoteRight {
+          margin-right: -12.5vw; } }
+      @media (min-width: 992px) {
+        .journal-article .pullquote.pullquote-right, .journal-article .pullquote.pullQuoteRight, .journal-article [class*="pullQuote"].pullquote-right, .journal-article [class*="pullQuote"].pullQuoteRight {
+          margin-right: -25%; } }
+  .journal-article div[class^="sidebar"] {
+    font-size: .8em;
+    padding: 1em;
+    border-top: 4px solid gray;
+    border-bottom: 5px solid gray;
+    margin: 1em 0; }
+    .journal-article div[class^="sidebar"] h1, .journal-article div[class^="sidebar"] h2, .journal-article div[class^="sidebar"] h3, .journal-article div[class^="sidebar"] h4, .journal-article div[class^="sidebar"] h5, .journal-article div[class^="sidebar"] h6 {
+      font-size: 1rem;
+      margin-left: 0 !important;
+      margin-right: 0 !important; }
+    .journal-article div[class^="sidebar"] img {
+      height: auto; }
+  .journal-article .article-section {
+    padding-bottom: 5em;
+    border-bottom: 1px solid #8DC9DD; }
+    .journal-article .article-section .hero-image {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 100vh;
+      margin-bottom: 5em; }
+  .journal-article .subhead {
+    font-size: 0.8rem;
+    color: grey;
+    font-style: italic; }
+    @media (min-width: 576px) {
+      .journal-article .subhead {
+        font-size: 1.0rem; } }
+    @media (min-width: 768px) {
+      .journal-article .subhead {
+        font-size: 1.2rem; } }
+    @media (min-width: 992px) {
+      .journal-article .subhead {
+        font-size: 1.4rem; } }
+    @media (min-width: 1200px) {
+      .journal-article .subhead {
+        font-size: 1.6rem; } }
+  .journal-article h1 {
+    font-size: 1.3rem;
+    font-weight: 900;
+    margin: .25em .5em .75em; }
+    @media (min-width: 576px) {
+      .journal-article h1 {
+        font-size: 2.2rem; } }
+    @media (min-width: 768px) {
+      .journal-article h1 {
+        font-size: 2.4rem; } }
+    @media (min-width: 992px) {
+      .journal-article h1 {
+        font-size: 2.6rem; } }
+    @media (min-width: 1200px) {
+      .journal-article h1 {
+        font-size: 2.8rem; } }
+  .journal-article p {
+    font-size: .85em; }
+    @media (min-width: 576px) {
+      .journal-article p {
+        font-size: .9em; } }
+    @media (min-width: 768px) {
+      .journal-article p {
+        font-size: 1em; } }
+    @media (min-width: 992px) {
+      .journal-article p {
+        font-size: 1.1em; } }
+    @media (min-width: 1200px) {
+      .journal-article p {
+        font-size: 1.2em; } }
+    .journal-article p.dropcaps, .journal-article p.dropcap {
+      margin-top: 2em; }
+      .journal-article p.dropcaps::first-letter, .journal-article p.dropcap::first-letter {
+        color: #F96527;
+        float: left;
+        font-size: 5.5em;
+        line-height: 1em;
+        padding-top: 0em;
+        padding-right: .1em;
+        padding-left: 0;
+        padding-bottom: 0; }
+    .journal-article p.feature-article p:first-of-type, .journal-article p.magazine-entry p:first-of-type {
+      margin-top: 2em; }
+      .journal-article p.feature-article p:first-of-type::first-letter, .journal-article p.magazine-entry p:first-of-type::first-letter {
+        color: #F96527;
+        float: left;
+        font-size: 5.5em;
+        line-height: 1em;
+        padding-top: 0em;
+        padding-right: .1em;
+        padding-left: 0;
+        padding-bottom: 0; }
+    .journal-article p.no-dropcaps::first-letter {
+      color: inherit;
+      float: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      padding-top: inherit;
+      padding-right: inherit;
+      padding-left: inherit;
+      padding-bottom: inherit; }
+    figure {
+      position: relative; }
+      @media (min-width: 576px) {
+        figure {
+          left: -8.3%;
+          width: 116.6%; } }
+      @media (min-width: 768px) {
+        figure {
+          left: -12.5%;
+          width: 125%; } }
+      @media (min-width: 1200px) {
+        figure {
+          left: -25%;
+          width: 150%; } }
+      figure img {
+        width: 100%;
+        height: auto; }
+      figure figcaption {
+        margin-bottom: 1.5em;
+        display: block;
+        font-family: "Roboto Condensed", sans-serif;
+        text-align: left; }
+      figure.offset-right {
+        position: relative;
+        left: 0; }
+        @media (min-width: 576px) {
+          figure.offset-right {
+            width: 108.3%; } }
+        @media (min-width: 768px) {
+          figure.offset-right {
+            width: 112.5%; } }
+        @media (min-width: 992px) {
+          figure.offset-right {
+            width: 125%; } }
+        figure.offset-right img, figure.offset-right iframe {
+          width: 100%; }
+      figure.offset-left {
+        position: relative;
+        left: 0; }
+        @media (min-width: 576px) {
+          figure.offset-left {
+            left: -8.3%;
+            width: 108.3%; } }
+        @media (min-width: 768px) {
+          figure.offset-left {
+            left: -12.5%;
+            width: 112.5%; } }
+        @media (min-width: 992px) {
+          figure.offset-left {
+            left: -25%;
+            width: 125%; } }
+        figure.offset-left img, figure.offset-left iframe {
+          width: 100%; }
+        figure.offset-left.offset-right {
+          position: relative; }
+          @media (min-width: 576px) {
+            figure.offset-left.offset-right {
+              width: 116.6%; } }
+          @media (min-width: 768px) {
+            figure.offset-left.offset-right {
+              width: 125%; } }
+          @media (min-width: 992px) {
+            figure.offset-left.offset-right {
+              width: 150%; } }
+      @media (min-width: 576px) {
+        figure.no-offset, figure.offset-none {
+          left: 0%;
+          width: 100%; } }
+      @media (min-width: 768px) {
+        figure.no-offset, figure.offset-none {
+          left: 0%;
+          width: 100%; } }
+      @media (min-width: 992px) {
+        figure.no-offset, figure.offset-none {
+          left: 0%;
+          width: 100%; } }
+      figure.no-offset img, figure.no-offset iframe, figure.offset-none img, figure.offset-none iframe {
+        width: 100%;
+        left: 0; }
+    .journal-article p iframe {
+      min-height: 360px; }
+    .journal-article p > img, .journal-article p > iframe {
+      width: 100%;
+      height: auto;
+      position: relative; }
+      @media (min-width: 576px) {
+        .journal-article p > img, .journal-article p > iframe {
+          left: -8.3%;
+          width: 116.6%; } }
+      @media (min-width: 768px) {
+        .journal-article p > img, .journal-article p > iframe {
+          left: -12.5%;
+          width: 125%; } }
+      @media (min-width: 1200px) {
+        .journal-article p > img, .journal-article p > iframe {
+          left: -25%;
+          width: 150%; } }
+      .journal-article p > img .photo-credit, .journal-article p > img .photoCredit, .journal-article p > img cite, .journal-article p > img a .photoCredit, .journal-article p > img a cite, .journal-article p > iframe .photo-credit, .journal-article p > iframe .photoCredit, .journal-article p > iframe cite, .journal-article p > iframe a .photoCredit, .journal-article p > iframe a cite {
+        font-family: "Roboto Condensed", sans-serif;
+        display: block;
+        font-style: italic;
+        font-size: .9em;
+        margin-bottom: 1.5em; }
+    .journal-article p .photo-credit, .journal-article p .photoCredit {
+      font-family: "Roboto Condensed", sans-serif;
+      display: block;
+      font-style: italic;
+      font-size: .9em;
+      margin-bottom: 1.5em; }
+    .journal-article p .caption, .journal-article p a .caption {
+      display: block;
+      font-family: "Roboto Condensed", sans-serif; }
+    .journal-article p .caption + .photo-credit, .journal-article p .caption + .photoCredit {
+      margin-bottom: 0; }
+    .journal-article p.graphicLeft, .journal-article p.graphic-left {
+      width: 40%;
+      height: auto;
+      float: left;
+      margin-right: 1.5em; }
+      .journal-article p.graphicLeft.offset-left, .journal-article p.graphic-left.offset-left {
+        width: 40%; }
+        @media (min-width: 576px) {
+          .journal-article p.graphicLeft.offset-left, .journal-article p.graphic-left.offset-left {
+            margin-left: 0%;
+            margin-right: -8.3%;
+            width: 48.3%;
+            padding-right: 1.5em; } }
+        @media (min-width: 768px) {
+          .journal-article p.graphicLeft.offset-left, .journal-article p.graphic-left.offset-left {
+            margin-right: -12.5%;
+            width: 52.5%; } }
+        @media (min-width: 992px) {
+          .journal-article p.graphicLeft.offset-left, .journal-article p.graphic-left.offset-left {
+            margin-right: -25%;
+            width: 65%; } }
+      .journal-article p.graphicLeft img, .journal-article p.graphicLeft iframe, .journal-article p.graphic-left img, .journal-article p.graphic-left iframe {
+        width: 100%;
+        left: 0; }
+    .journal-article p.graphicRight, .journal-article p.graphic-right {
+      width: 40%;
+      height: auto;
+      float: right;
+      margin-left: 1.5em; }
+      .journal-article p.graphicRight.offset-right, .journal-article p.graphic-right.offset-right {
+        width: 40%; }
+        @media (min-width: 576px) {
+          .journal-article p.graphicRight.offset-right, .journal-article p.graphic-right.offset-right {
+            margin-left: 0%;
+            margin-right: -8.3%;
+            width: 48.3%;
+            padding-left: 1.5em; } }
+        @media (min-width: 768px) {
+          .journal-article p.graphicRight.offset-right, .journal-article p.graphic-right.offset-right {
+            margin-right: -12.5%;
+            width: 52.5%; } }
+        @media (min-width: 992px) {
+          .journal-article p.graphicRight.offset-right, .journal-article p.graphic-right.offset-right {
+            margin-right: -25%;
+            width: 65%; } }
+      .journal-article p.graphicRight img, .journal-article p.graphicRight iframe, .journal-article p.graphic-right img, .journal-article p.graphic-right iframe {
+        width: 100%;
+        left: 0; }
+    .journal-article p.offset-right {
+      position: relative; }
+      @media (min-width: 576px) {
+        .journal-article p.offset-right {
+          width: 108.3%; } }
+      @media (min-width: 768px) {
+        .journal-article p.offset-right {
+          width: 112.5%; } }
+      @media (min-width: 992px) {
+        .journal-article p.offset-right {
+          width: 125%; } }
+      .journal-article p.offset-right img, .journal-article p.offset-right iframe {
+        width: 100%;
+        left: 0; }
+    .journal-article p.offset-left {
+      position: relative; }
+      @media (min-width: 576px) {
+        .journal-article p.offset-left {
+          left: -8.3%;
+          width: 108.3%; } }
+      @media (min-width: 768px) {
+        .journal-article p.offset-left {
+          left: -12.5%;
+          width: 112.5%; } }
+      @media (min-width: 992px) {
+        .journal-article p.offset-left {
+          left: -25%;
+          width: 125%; } }
+      .journal-article p.offset-left img, .journal-article p.offset-left iframe {
+        width: 100%;
+        left: 0; }
+      .journal-article p.offset-left.offset-right {
+        position: relative; }
+        @media (min-width: 576px) {
+          .journal-article p.offset-left.offset-right {
+            left: -8.3%;
+            width: 116.6%; } }
+        @media (min-width: 768px) {
+          .journal-article p.offset-left.offset-right {
+            left: -12.5%;
+            width: 125%; } }
+        @media (min-width: 992px) {
+          .journal-article p.offset-left.offset-right {
+            left: -25%;
+            width: 150%; } }
+    @media (min-width: 576px) {
+      .journal-article p.no-offset {
+        left: 0%;
+        width: 100%; } }
+    @media (min-width: 768px) {
+      .journal-article p.no-offset {
+        left: 0%;
+        width: 100%; } }
+    @media (min-width: 992px) {
+      .journal-article p.no-offset {
+        left: 0%;
+        width: 100%; } }
+    .journal-article p.no-offset img, .journal-article p.no-offset iframe {
+      width: 100%;
+      left: 0; }
+  .journal-article a.footnote-link {
+    color: inherit;
+    font-size: .6em;
+    vertical-align: super; }
+  .journal-article #footnotes ~ ol li {
+    font-size: .8em;
+    color: #666;
+    margin-bottom: .5em; }
+
+.issues-carousel {
+  background: #fafafa;
+  padding: 1em 0; }
+  .issues-carousel h3 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 1.5em;
+    margin: 0 1em;
+    color: #999; }
+  .issues-carousel .swiper-container {
+    position: relative; }
+  .issues-carousel .swiper-pagination {
+    color: white; }
+  .issues-carousel div[class^='swiper-button-'] {
+    background-image: none;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 3vmin;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    text-shadow: 0 0 0.15em rgba(0, 0, 0, 0); }
+    .issues-carousel div[class^='swiper-button-'].swiper-button-prev {
+      left: 1vw; }
+    .issues-carousel div[class^='swiper-button-'].swiper-button-next {
+      right: 1vw; }
+    .issues-carousel div[class^='swiper-button-']:hover {
+      color: white;
+      text-shadow: 0 0 0.15em rgba(0, 0, 0, 0.5); }
+  .issues-carousel .swiper-slide {
+    height: 100%;
+    width: 180px;
+    margin: 0 45px; }
+    .issues-carousel .swiper-slide .card {
+      background: transparent; }
+    .issues-carousel .swiper-slide .card-title {
+      font-size: 1em;
+      font-weight: 400;
+      font-family: "Roboto Condensed", sans-serif; }
+    .issues-carousel .swiper-slide .image-container {
+      background-size: contain !important;
+      background-repeat: no-repeat;
+      height: 240px; }
+      .issues-carousel .swiper-slide .image-container img {
+        display: none; }
+
+.eij-carousel {
+  background: #222;
+  margin-bottom: 2em; }
+  .eij-carousel .swiper-container {
+    height: 95vh;
+    position: relative; }
+  .eij-carousel .swiper-pagination {
+    color: white; }
+  .eij-carousel div[class^='swiper-button-'] {
+    background-image: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 3vmin;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    text-shadow: 0 0 0.15em rgba(0, 0, 0, 0); }
+    .eij-carousel div[class^='swiper-button-'].swiper-button-prev {
+      left: 1vw; }
+    .eij-carousel div[class^='swiper-button-'].swiper-button-next {
+      right: 1vw; }
+    .eij-carousel div[class^='swiper-button-']:hover {
+      color: white;
+      text-shadow: 0 0 0.15em rgba(0, 0, 0, 0.5); }
+  .eij-carousel .swiper-slide {
+    height: 100%; }
+    .eij-carousel .swiper-slide.intro-slide, .eij-carousel .swiper-slide.outtro-slide {
+      overflow: scroll; }
+    .eij-carousel .swiper-slide.presentation-slide {
+      display: flex;
+      flex-direction: column !important;
+      background: #222;
+      color: white; }
+      .eij-carousel .swiper-slide.presentation-slide .swiper-slide.text-only {
+        color: white; }
+      .eij-carousel .swiper-slide.presentation-slide .body-text {
+        padding-left: 3rem;
+        padding-right: 3rem;
+        padding-top: 1em;
+        max-height: 50%;
+        overflow-y: scroll; }
+    .eij-carousel .swiper-slide .slide-info {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background-color: transparent;
+      left: 0; }
+      .eij-carousel .swiper-slide .slide-info > .info-button {
+        color: white;
+        position: absolute;
+        text-shadow: 0 0 0.15em black;
+        top: -1.7em;
+        left: 0em;
+        width: 100%;
+        font-size: 1.2em; }
+        .eij-carousel .swiper-slide .slide-info > .info-button > span {
+          margin-left: .7em; }
+      .eij-carousel .swiper-slide .slide-info .info-container {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        top: 0;
+        left: 0;
+        transition: all .2s ease;
+        padding: 1.5em;
+        background-color: transparent;
+        box-shadow: 0 0 1em -.25em black; }
+        .eij-carousel .swiper-slide .slide-info .info-container > div {
+          text-align: left; }
+          .eij-carousel .swiper-slide .slide-info .info-container > div p {
+            margin: 0; }
+          .eij-carousel .swiper-slide .slide-info .info-container > div.slide-number {
+            margin-right: 1em; }
+      .eij-carousel .swiper-slide .slide-info:hover > .info-container {
+        transform: translateY(-99%);
+        background-color: white; }
+        .eij-carousel .swiper-slide .slide-info:hover > .info-container > div {
+          color: black; }
+    .eij-carousel .swiper-slide .background-image {
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      width: 100%;
+      height: 100%;
+      box-shadow: 0 0 1em -.5em black; }
+    .eij-carousel .swiper-slide .text-container {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: white; }
+    .eij-carousel .swiper-slide.text-only .text-container {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: "Libre Baskerville", serif;
+      bottom: auto;
+      max-width: 50em;
+      position: absolute;
+      max-height: 100%;
+      overflow: scroll;
+      padding-top: 25vh;
+      padding-bottom: 25vh; }
+      @media (max-width: 576px) {
+        .eij-carousel .swiper-slide.text-only .text-container {
+          padding-left: 20px;
+          padding-right: 20px; } }
+      .eij-carousel .swiper-slide.text-only .text-container p:last-of-type {
+        padding-bottom: 25vh; }
+
+.eij .mc-more-stories .btn-border-white {
+  width: auto; }
+
+.article-tags {
+  display: flex;
+  margin: 0; }
+  .article-tags .article-tag {
+    font-size: 1.2em;
+    margin-right: 1em;
+    border-bottom: 1px solid;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    margin: 1em 1em 1em 0; }
+
+.magazine-intro .hero-container, .carousel-intro .hero-container {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; }
+  .magazine-intro .hero-container.hero-contain, .carousel-intro .hero-container.hero-contain {
+    height: auto; }
+    .magazine-intro .hero-container.hero-contain > img, .carousel-intro .hero-container.hero-contain > img {
+      width: 100%; }
+
+.magazine-intro .overlay, .carousel-intro .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/journal/images/image-overlay-screen.png");
+  background-repeat: repeat;
+  opacity: .6;
+  z-index: 1; }
+
+.magazine-intro .text-container, .carousel-intro .text-container {
+  z-index: 2;
+  font-family: "Libre Baskerville", serif;
+  position: absolute;
+  bottom: 15%;
+  color: white;
+  text-shadow: 0 0 .1em black;
+  left: 50%;
+  transform: translateX(-50%); }
+  .magazine-intro .text-container .headline, .carousel-intro .text-container .headline {
+    font-weight: 900;
+    margin-bottom: .25em; }
+  .magazine-intro .text-container .subhead, .carousel-intro .text-container .subhead {
+    font-size: 2em;
+    font-weight: 100;
+    line-height: 1.3em;
+    font-style: italic; }
+  .magazine-intro .text-container a, .carousel-intro .text-container a {
+    color: inherit;
+    text-decoration: none; }
+
+.carousel-intro {
+  height: 100%; }
+  .carousel-intro .hero-container {
+    height: 66vh;
+    box-shadow: 0 0 1em -.5em black; }
+  .carousel-intro .go-presentation-button {
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    z-index: 10;
+    transform: translate(-50%, 0);
+    font-family: "Roboto Condensed", sans-serif;
+    background: rgba(255, 255, 255, 0);
+    transition: all .2s ease;
+    color: white;
+    text-shadow: none;
+    border-radius: 2em;
+    border: 3px solid white;
+    text-shadow: none; }
+    .carousel-intro .go-presentation-button:hover {
+      background: white;
+      color: #555; }
+
+footer .footer-section {
+  padding: 60px 0; }
+  footer .footer-section .footer-logo {
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 2em;
+    padding-right: 2em; }
+  footer .footer-section a {
+    color: #ffffff;
+    text-decoration: none;
+    transition-duration: .25s; }
+    footer .footer-section a:hover {
+      color: #FF903F; }
+  footer .footer-section li {
+    list-style: none;
+    margin-bottom: .5em;
+    line-height: 1.3em; }
+    footer .footer-section li:first-of-type {
+      font-weight: 700;
+      margin-bottom: 1.5em;
+      font-size: 1.1em; }
+  footer .footer-section.eij-footer {
+    background-color: #091b36; }
+  footer .footer-section.eii-footer {
+    background-color: #5f99ab; }
+    footer .footer-section.eii-footer .eii-info {
+      color: rgba(255, 255, 255, 0.5);
+      margin-top: 30px; }
+
+.eij .mc-suscribe-container {
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+span[class^="bigtext-line"] {
+  line-height: 1.2em; }
+
+.magazine-archive .article-preview .card-title {
+  font-size: 1rem; }
+
+.ribbon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1; }
+  .ribbon span {
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 2.5em;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    display: block;
+    background: linear-gradient(#FDB714 0%, #FDB714 100%);
+    box-shadow: 0 3px 10px -5px black;
+    position: absolute;
+    top: 19px;
+    left: -21px;
+    width: 100%; }
+
+.banner.izzy-banner .izzy-container, .banner.izzy-banner .announcements-container, .banner.announcements-banner .izzy-container, .banner.announcements-banner .announcements-container {
+  padding: 15px; }
+  .banner.izzy-banner .izzy-container > div, .banner.izzy-banner .announcements-container > div, .banner.announcements-banner .izzy-container > div, .banner.announcements-banner .announcements-container > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1em;
+    background-color: #FDB714; }
+    @media screen and (min-width: 576px) {
+      .banner.izzy-banner .izzy-container > div, .banner.izzy-banner .announcements-container > div, .banner.announcements-banner .izzy-container > div, .banner.announcements-banner .announcements-container > div {
+        flex-direction: row; } }
+
+.banner.izzy-banner a.red, .banner.announcements-banner a.red {
+  color: #f6591f; }
+
+.banner-subscribe {
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: #20809e !important; }
+  .banner-subscribe div.mce_inline_error {
+    width: 100% !important;
+    background: none !important;
+    color: #dc3545 !important; }
+
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: .5em; }
+  .article-meta > a {
+    font-size: .6rem;
+    text-transform: uppercase;
+    font-family: "Roboto Condensed", sans-serif;
+    letter-spacing: .1em;
+    padding: .25em 0em;
+    color: inherit; }
+
+.article-meta {
+  font-size: .6rem;
+  text-transform: uppercase;
+  font-family: "Roboto Condensed", sans-serif;
+  letter-spacing: .1em;
+  padding: .25em 0em;
+  color: inherit; }
+  .article-preview-text-over-image a.article-meta {
+    color: white; }
+  .article-meta:hover::before {
+    text-decoration: none; }
+
+.article-preview-3 {
+  position: relative;
+  display: grid;
+  grid: 320px minmax(220px, auto)/auto;
+  gap: .5em 1em;
+  margin-top: 1em;
+  margin-bottom: 1em; }
+  .article-preview-3 .image-container {
+    position: relative;
+    border-radius: .25em;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden; }
+    .article-preview-3 .image-container > .overlay {
+      transition: background-color .25s ease;
+      z-index: 2;
+      background-color: rgba(0, 0, 0, 0); }
+    .article-preview-3 .image-container img {
+      visibility: hidden;
+      width: 100%;
+      height: auto; }
+  .article-preview-3.image-contain .image-container {
+    background-size: contain; }
+  .article-preview-3.image-center-left .image-container {
+    background-position: center left; }
+  .article-preview-3.image-background .subhead {
+    font-style: italic; }
+  .article-preview-3.image-background .image-container .overlay {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAAXNSR0IArs4c6QAAABVJREFUGFdjZGBg+M/AwMDACGUwAgATGwICzq4v7wAAAABJRU5ErkJggg==");
+    background-repeat: repeat;
+    filter: blur(0.5px);
+    opacity: .2;
+    transition: opacity .2s linear; }
+  .article-preview-3.image-background:hover .image-container .overlay {
+    opacity: .5; }
+  .article-preview-3 .text-container {
+    font-family: "Libre Baskerville", serif;
+    display: flex;
+    flex-direction: column; }
+    .article-preview-3 .text-container > * {
+      margin-bottom: .75em; }
+    .article-preview-3 .text-container .title {
+      font-size: 1.5em;
+      font-weight: 900; }
+      .article-preview-3 .text-container .title.bigtext {
+        font-size: clamp(1.4em, 5vmin, 3em); margin-bottom:1vmin; }
+    .article-preview-3 .text-container .subhead {
+      bottom: 0;
+      font-size: .8em;
+      line-height: 1.6em; }
+    .article-preview-3 .text-container .credits {
+      font-size: .7rem;
+      line-height: 1.3rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-style: normal; }
+      .article-preview-3 .text-container .credits span.author {
+        text-transform: uppercase; }
+      .article-preview-3 .text-container .credits span:after {
+        font-style: normal;
+        content: "•";
+        margin-right: .5em;
+        margin-left: .5em; }
+      .article-preview-3 .text-container .credits span:first-of-type:before {
+        content: "by";
+        margin-right: .5em; }
+      .article-preview-3 .text-container .credits span:last-of-type:after {
+        content: ""; }
+    .article-preview-3 .text-container .text-muted {
+      color: #eee !important;
+      font-size: .9rem;
+      font-weight: 400; }
+    .article-preview-3 .text-container .footer {
+      background-color: transparent;
+      padding: 1em;
+      border-top: none;
+      position: relative; }
+  .article-preview-3.image-background {
+    grid: 540px/auto; }
+    .article-preview-3.image-background .text-container {
+      font-size: 1.5em;
+      z-index: 2;
+      color: white;
+      padding: 1rem 10%; }
+      .article-preview-3.image-background .text-container > *:first-child {
+        margin-top: auto; }
+    .article-preview-3.image-background .image-container .overlay {
+      background-color: rgba(0, 0, 0, 0.1); }
+  @media screen and (min-width: 768px) {
+    .article-preview-3.image-left {
+      grid: auto / auto 300px; }
+      .article-preview-3.image-left .text-container {
+        justify-content: center; }
+    .article-preview-3.search-result {
+      grid: auto/320px auto; } }
+  .article-preview-3.related-article {
+    grid: calc(320px - 2em) auto/auto;
+    border: 1px solid #ddd;
+    border-radius: 0.25em;
+    padding: 1em;
+    background-color: white;
+    max-width: 320px; }
+  .article-preview-3:hover .image-container .overlay {
+    background-color: rgba(0, 0, 0, 0.2); }
+
+#archive-grid .container {
+  display: grid;
+  grid: auto / auto;
+  gap: 2em; }
+  @media screen and (min-width: 768px) {
+    #archive-grid .container {
+      grid: auto / 1fr 1fr; } }
+  @media screen and (min-width: 992px) {
+    #archive-grid .container {
+      grid: auto / 1fr 1fr 1fr; } }
+  @media screen and (min-width: 1200px) {
+    #archive-grid .container {
+      grid: auto / 1fr 1fr 1fr 1fr; } }
+
+#archive-grid .article-preview-3 {
+  grid: 320px minmax(120px, auto)/auto; }
+</style>
+    <script>/*! simple-grunt-starter - v1.0.6 - 2018-10-10 */
+/*! BigText - v1.0.1 - 2017-10-02
+ * https://github.com/zachleat/bigtext
+ * Copyright (c) 2017 Zach Leatherman (@zachleat)
+ * MIT License */
+
+(function(window, $) {
+  "use strict";
+
+  var counter = 0,
+    $headCache = $('head'),
+    oldBigText = window.BigText,
+    oldjQueryMethod = $.fn.bigtext,
+    BigText = {
+      DEBUG_MODE: false,
+      DEFAULT_MIN_FONT_SIZE_PX: null,
+      DEFAULT_MAX_FONT_SIZE_PX: 528,
+      GLOBAL_STYLE_ID: 'bigtext-style',
+      STYLE_ID: 'bigtext-id',
+      LINE_CLASS_PREFIX: 'bigtext-line',
+      EXEMPT_CLASS: 'bigtext-exempt',
+      noConflict: function(restore)
+      {
+        if(restore) {
+          $.fn.bigtext = oldjQueryMethod;
+          window.BigText = oldBigText;
+        }
+        return BigText;
+      },
+      supports: {
+        wholeNumberFontSizeOnly: (function() {
+          if( !( 'getComputedStyle' in window ) ) {
+            return true;
+          }
+          var test = $('<div/>').css({
+              position: 'absolute',
+              'font-size': '14.1px'
+            }).insertBefore( $('script').eq(0) ),
+            computedStyle = window.getComputedStyle( test[0], null );
+
+          var ret = computedStyle && computedStyle.getPropertyValue( 'font-size' ) === '14px';
+          test.remove();
+          return ret;
+        })()
+      },
+      init: function() {
+        if(!$('#'+BigText.GLOBAL_STYLE_ID).length) {
+          $headCache.append(BigText.generateStyleTag(BigText.GLOBAL_STYLE_ID, ['.bigtext * { white-space: nowrap; } .bigtext > * { display: block; }',
+                                          '.bigtext .' + BigText.EXEMPT_CLASS + ', .bigtext .' + BigText.EXEMPT_CLASS + ' * { white-space: normal; }']));
+        }
+      },
+      bindResize: function(eventName, resizeFunction) {
+        var timeoutId;
+        $(window).off(eventName).on(eventName, function() {
+          if( timeoutId ) {
+            clearTimeout( timeoutId );
+          }
+          timeoutId = setTimeout( resizeFunction, 100 );
+        });
+      },
+      getStyleId: function(id)
+      {
+        return BigText.STYLE_ID + '-' + id;
+      },
+      generateStyleTag: function(id, css)
+      {
+        return $('<style>' + css.join('\n') + '</style>').attr('id', id);
+      },
+      clearCss: function(id)
+      {
+        var styleId = BigText.getStyleId(id);
+        $('#' + styleId).remove();
+      },
+      generateCss: function(id, linesFontSizes, lineWordSpacings, minFontSizes)
+      {
+        var css = [];
+
+        BigText.clearCss(id);
+
+        for(var j=0, k=linesFontSizes.length; j<k; j++) {
+          css.push('#' + id + ' .' + BigText.LINE_CLASS_PREFIX + j + ' {' +
+            (minFontSizes[j] ? ' white-space: normal;' : '') +
+            (linesFontSizes[j] ? ' font-size: ' + linesFontSizes[j] + 'px;' : '') +
+            (lineWordSpacings[j] ? ' word-spacing: ' + lineWordSpacings[j] + 'px;' : '') +
+            '}');
+        }
+
+        return BigText.generateStyleTag(BigText.getStyleId(id), css);
+      },
+      jQueryMethod: function(options)
+      {
+        BigText.init();
+
+        options = $.extend({
+          minfontsize: BigText.DEFAULT_MIN_FONT_SIZE_PX,
+          maxfontsize: BigText.DEFAULT_MAX_FONT_SIZE_PX,
+          childSelector: '',
+          resize: true
+        }, options || {});
+
+        this.each(function()
+        {
+          var $t = $(this).addClass('bigtext'),
+            maxWidth = $t.width(),
+            id = $t.attr('id'),
+            $children = options.childSelector ? $t.find( options.childSelector ) : $t.children();
+
+          if(!id) {
+            id = 'bigtext-id' + (counter++);
+            $t.attr('id', id);
+          }
+
+          if(options.resize) {
+            BigText.bindResize('resize.bigtext-event-' + id, function()
+            {
+              // TODO only call this if the width has changed.
+              BigText.jQueryMethod.call($('#' + id), options);
+            });
+          }
+
+          BigText.clearCss(id);
+
+          $children.addClass(function(lineNumber, className)
+          {
+            // remove existing line classes.
+            return [className.replace(new RegExp('\\b' + BigText.LINE_CLASS_PREFIX + '\\d+\\b'), ''),
+                BigText.LINE_CLASS_PREFIX + lineNumber].join(' ');
+          });
+
+          var sizes = BigText.calculateSizes($t, $children, maxWidth, options.maxfontsize, options.minfontsize);
+          $headCache.append(BigText.generateCss(id, sizes.fontSizes, sizes.wordSpacings, sizes.minFontSizes));
+        });
+
+        return this.trigger('bigtext:complete');
+      },
+      testLineDimensions: function($line, maxWidth, property, size, interval, units, previousWidth)
+      {
+        var width;
+        previousWidth = typeof previousWidth === 'number' ? previousWidth : 0;
+        $line.css(property, size + units);
+
+        width = $line.width();
+
+        if(width >= maxWidth) {
+    // console.log(width, ' previous: ' + previousWidth, property + ' at ' + interval, 'prior: ' + (parseFloat(size) - interval), 'new:' + parseFloat(size));
+          $line.css(property, '');
+
+          if(width === maxWidth) {
+            return {
+              match: 'exact',
+              size: parseFloat((parseFloat(size) - 0.1).toFixed(3))
+            };
+          }
+
+          // Since this is an estimate, we calculate how far over the width we went with the new value.
+          // If this is word-spacing (our last resort guess) and the over is less than the under, we keep the higher value.
+          // Otherwise, we revert to the underestimate.
+          var under = maxWidth - previousWidth,
+            over = width - maxWidth;
+
+          return {
+            match: 'estimate',
+            size: parseFloat((parseFloat(size) - (property === 'word-spacing' && previousWidth && ( over < under ) ? 0 : interval)).toFixed(3))
+          };
+        }
+
+        return width;
+      },
+      calculateSizes: function($t, $children, maxWidth, maxFontSize, minFontSize)
+      {
+        var $c = $t.clone(true)
+          .addClass('bigtext-cloned')
+          .css({
+            fontFamily: $t.css('font-family'),
+            textTransform: $t.css('text-transform'),
+            wordSpacing: $t.css('word-spacing'),
+            letterSpacing: $t.css('letter-spacing'),
+            position: 'absolute',
+            left: BigText.DEBUG_MODE ? 0 : -9999,
+            top: BigText.DEBUG_MODE ? 0 : -9999
+          })
+          .appendTo(document.body);
+
+        // font-size isn't the only thing we can modify, we can also mess with:
+        // word-spacing and letter-spacing. WebKit does not respect subpixel
+        // letter-spacing, word-spacing, or font-size.
+        // TODO try -webkit-transform: scale() as a workaround.
+        var fontSizes = [],
+          wordSpacings = [],
+          minFontSizes = [],
+          ratios = [];
+
+        $children.css('float', 'left').each(function() {
+          var $line = $(this),
+            // TODO replace 8, 4 with a proportional size to the calculated font-size.
+            intervals = BigText.supports.wholeNumberFontSizeOnly ? [8, 4, 1] : [8, 4, 1, 0.1],
+            lineMax,
+            newFontSize;
+
+          if($line.hasClass(BigText.EXEMPT_CLASS)) {
+            fontSizes.push(null);
+            ratios.push(null);
+            minFontSizes.push(false);
+            return;
+          }
+
+          // TODO we can cache this ratio?
+          var autoGuessSubtraction = 32, // font size in px
+            currentFontSize = parseFloat($line.css('font-size')),
+            ratio = ( $line.width() / currentFontSize ).toFixed(6);
+
+          newFontSize = parseInt( maxWidth / ratio, 10 ) - autoGuessSubtraction;
+
+          outer: for(var m=0, n=intervals.length; m<n; m++) {
+            inner: for(var j=1, k=10; j<=k; j++) {
+              if(newFontSize + j*intervals[m] > maxFontSize) {
+                newFontSize = maxFontSize;
+                break outer;
+              }
+
+              lineMax = BigText.testLineDimensions($line, maxWidth, 'font-size', newFontSize + j*intervals[m], intervals[m], 'px', lineMax);
+              if(typeof lineMax !== 'number') {
+                newFontSize = lineMax.size;
+
+                if(lineMax.match === 'exact') {
+                  break outer;
+                }
+                break inner;
+              }
+            }
+          }
+
+          ratios.push(maxWidth / newFontSize);
+
+          if(newFontSize > maxFontSize) {
+            fontSizes.push(maxFontSize);
+            minFontSizes.push(false);
+          } else if(!!minFontSize && newFontSize < minFontSize) {
+            fontSizes.push(minFontSize);
+            minFontSizes.push(true);
+          } else {
+            fontSizes.push(newFontSize);
+            minFontSizes.push(false);
+          }
+        }).each(function(lineNumber) {
+          var $line = $(this),
+            wordSpacing = 0,
+            interval = 1,
+            maxWordSpacing;
+
+          if($line.hasClass(BigText.EXEMPT_CLASS)) {
+            wordSpacings.push(null);
+            return;
+          }
+
+          // must re-use font-size, even though it was removed above.
+          $line.css('font-size', fontSizes[lineNumber] + 'px');
+
+          for(var m=1, n=3; m<n; m+=interval) {
+            maxWordSpacing = BigText.testLineDimensions($line, maxWidth, 'word-spacing', m, interval, 'px', maxWordSpacing);
+            if(typeof maxWordSpacing !== 'number') {
+              wordSpacing = maxWordSpacing.size;
+              break;
+            }
+          }
+
+          $line.css('font-size', '');
+          wordSpacings.push(wordSpacing);
+        }).removeAttr('style');
+
+        if( !BigText.DEBUG_MODE ) {$c.remove();} else {
+          $c.css({
+            'background-color': 'rgba(255,255,255,.4)'
+          });
+        }
+
+        return {
+          fontSizes: fontSizes,
+          wordSpacings: wordSpacings,
+          ratios: ratios,
+          minFontSizes: minFontSizes
+        };
+      }
+    };
+
+  $.fn.bigtext = BigText.jQueryMethod;
+  window.BigText = BigText;
+
+})(this, jQuery);
+
+var lastScrollTop = 0;
+function do_the_header(){
+  var st = $(this).scrollTop();
+  if (st > lastScrollTop){
+      // downscroll code
+      $('body').removeClass('scrolled-up').addClass('scrolled-down');
+  } else {
+     // upscroll code
+     $('body').removeClass('scrolled-down').addClass('scrolled-up');
+  }
+  lastScrollTop = st;
+  if($(document).scrollTop()>$('page-header').height()){
+    $('body').addClass('has-scrolled');
+    // should close page-header's drop down menu
+  } else {
+    $('body').removeClass('has-scrolled');
+    $('top-header .navbar-toggler[aria-expanded="true"]').trigger("click");
+    // should close top-header's drop down menu
+  }
+}
+function bigtext_with_limits(){
+  $("[class*='-bigtext-']").each(function(){
+    var limits = $(this).attr('class').match(/(\d+)-bigtext-(\d+)/);
+    if(limits){
+      $(this).bt({
+        minfontsize: limits[1],
+        maxfontsize: limits[2]
+      });
+      console.log("bigtext_with_limits", limits[1], limits[2]);
+    }
+  });
+}
+jQuery(window).on('scroll',function(){do_the_header();});
+$("[data-scrollto]").click(function(event) {
+  event.preventDefault();
+  var mysection=$(this).attr('data-scrollto');
+    $('html, body').animate({
+        scrollTop: $("#"+mysection).offset().top
+    }, 500);
+});
+
+$(document).ready(function(){
+  console.log("ready.");
+
+  $('.bigtext').not("[class*='bigtext-']").bt();
+  bigtext_with_limits();
+
+  $(window).resize(function(e){
+    $('.bigtext').not("[class*='bigtext-']").bt();
+    bigtext_with_limits();
+  });
+  $('.article-preview').on('click tap', function (e) {
+    $('.article-preview').removeClass('active');
+    $(this).addClass('active');
+  });
+  $(document).on('click', '.more-posts-please', function (e) {
+    console.log("more posts please");
+    // Don't follow the link
+    e.preventDefault();
+
+    // Create a loading message and add it in place of the link
+    loadingMessage = $('<div class="col more-posts-loading d-flex justify-content-center"><div class="align-self-center">Loading...<i class="fa fa-spinner fa-spin"></i></div></div>');
+    $('.more-posts-please').replaceWith(loadingMessage);
+    console.log("before appendto:"+lastScrollTop);
+    // Fetch the next page
+    $.get($(this).attr('href'), function(data)
+    {
+      // Only grab the part of the page we want
+      content = $(data).find('.ajax-wrapper').children().hide();
+
+      // Add it to the DOM
+      $(content).appendTo('.ajax-wrapper');
+
+      // Remove loading indicator
+      $('.more-posts-loading').fadeOut('fast').remove();
+
+      // Fade-in our new content
+      $(content).fadeIn('fast');
+      $(this).scrollTop(lastScrollTop);
+      console.log("after appendto:"+lastScrollTop);
+    });
+  });
+});
+jQuery(window).on("load", function () {
+  $('.bigtext').not("[class*='bigtext-']").bt();
+  bigtext_with_limits();
+});
+var bt = BigText.noConflict(true);
+$.fn.bt = bt.jQueryMethod;
+</script>
+
+    <link rel="icon" href="/components/site/default/asset/img/favicon.ico" type="image/x-icon" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"corners":"small","colors":{"popup":{"background":"#f6f6f6","text":"#595959","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom","padding":"small","margin":"small","transparency":"5","content":{"href":"http://www.earthisland.org/index.php/aboutUs/privacy","message":"This website stores cookies on your computer. We use this information in order to improve your browsing experience. We will never sell your information to anyone ever. By entering our website you are agreeing to our usage of cookies and consenting to the collection and use of your information. ","link":"To find out more about the cookies we use, see our Privacy Policy Page.","button":"OK"}})});</script>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5STSHSZ');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="eij ">
+
+<top-header class="top-header" id="navbar" role="banner">
+    <div class="header-container journal">
+        <div class="container">
+            <nav class="navbar navbar-expand-* navbar-light d-flex align-items-center">
+              <a class="navbar-brand logo d-flex" href="https://www.earthisland.org/journal/index.php/" title="Home" rel="home">
+                <img src="/Journal-logo-2018-final-blue-02.svg" class="eij-logo eij-logo-blue" alt="Earth Island Journal Home">
+                <img src="/Journal-logo-2018-versions-02-white-no-whitespace.png" class="eij-logo eij-logo-white" alt="Earth Island Journal Home"/>
+              </a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#eij-top-header-navigation" aria-controls="eij-top-header-navigation" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="fa fa-bars"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="eij-top-header-navigation">
+                  <div class="navbar-nav mr-auto align-items-end">
+  <a class="nav-item nav-link active" href="https://www.earthisland.org/journal/index.php/articles">The Latest</a>
+  <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/magazine">Magazine</a>
+  <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/podcast">Podcast</a>
+  <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/magazine/archive">Archive</a>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle d-flex align-items-center justify-content-end" href="#" id="eij-header-nav-about-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      About
+    </a>
+    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="eij-header-nav-about-dropdown">
+      <a class="dropdown-item" href="https://www.earthisland.org/journal/index.php/page/who-we-are" title="Who we are">Who we are</a>
+      <a class="dropdown-item" href="https://www.earthisland.org/journal/index.php/page/about-the-journal" title=" About the Journal">About the Journal</a>
+      <a class="dropdown-item" href="https://www.earthisland.org/journal/index.php/page/writers-photographers-guidelines" title="Writers/Photographers guidelines">Writers/Photographers guidelines</a>
+      <a class="dropdown-item" href="/journal/team" title="Staff">Staff</a>
+      <a class="dropdown-item" href="/index.php/contact" title="Contact">Contact</a>
+    </div>
+  </li>
+  <li class="dropdown dropdown-menu-right">
+    <a class="nav-link dropdown-toggle d-flex align-items-center justify-content-end" type="button" id="dropdownMobileMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Subscribe
+    </a>
+    <div class="dropdown-menu" aria-labelledby="dropdownMobileMenuButton">
+      <a class="dropdown-item" href="https://donate.earthisland.org/page/20964/donate/1
+">Subscribe to the magazine</a>
+      <a class="dropdown-item" href="https://donate.earthisland.org/page/21066/donate/1">Give a gift subscription</a>
+      <a class="dropdown-item" href="/journal/index.php/page/newsletter-signup">Newsletter (FREE!)</a>
+    </div>
+  </li>
+
+  <a class="nav-item nav-link" href="https://donate.earthisland.org/page/20896/donate/1" target="_blank">Donate</a>
+  <div class="d-flex">
+    <a class="nav-item nav-link search-button pl-3" href="https://www.facebook.com/EarthIslandJournal" target="_blank" title="find us on Facebook"><i class="fa fa-facebook"></i></a>
+    <a class="nav-item nav-link search-button pl-3" href="https://twitter.com/earthislandjrnl" target="_blank" title="follow us on Twitter"><i class="fa fa-twitter"></i></a>
+    <a class="nav-item nav-link search-button pl-3" href="https://www.instagram.com/earthislandjournal/" target="_blank" title="follow us on Instagram"><i class="fa fa-instagram"></i></a>
+    <a class="nav-item nav-link search-button pl-3" href="mailto:editor@earthisland.org" title="email the editor"><i class="fa fa-envelope"></i></a>
+    <a href="#" class="nav-item nav-link search-button pl-3" title="search the Journal website"><span class="fa fa-search"></span></a>
+  </div>
+</div>
+
+              </div>
+            </nav>
+        </div>
+    </div>
+</top-header>
+
+<page-header class="page-header" id="navbar" role="banner">
+  <div class="header-container journal">
+    <div class="container d-none d-sm-none d-md-block d-lg-block d-xl-block">
+      <div class="row tier1">
+        <div class="col-sm-4">
+          <a class="logo" href="https://www.earthisland.org/journal/index.php/" title="Home" rel="home">
+            <img src="/Journal-logo-2018-final-blue-02.svg" class="eij-logo eij-logo-blue" alt="Earth Island Journal Home">
+            <img src="/Journal-logo-2018-versions-02-white-no-whitespace.png" class="d-none eij-logo eij-logo-white" alt="Earth Island Journal Home"/>
+          </a>
+        </div>
+        <div class="col d-flex align-items-end">
+          <div class="nav d-flex flex-fill">
+            <div class="d-flex flex-column mr-auto">
+              <a class="eij-tagline nav-item nav-link disabled mt-auto" href="#eii-footer-block" data-scrollto="eii-footer-block">An Earth Island Institute Publication</a>
+            </div>
+            <div class="big-callouts d-flex flex-column align-items-end">
+
+            
+
+              <div class="dropdown mt-auto dropleft">
+                <a class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Subscribe
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="https://donate.earthisland.org/page/20964/donate/1
+">Subscribe to the magazine</a>
+                  <a class="dropdown-item" href="https://donate.earthisland.org/page/21066/donate/1">Give a gift subscription</a>
+                  <a class="dropdown-item" href="/journal/index.php/page/newsletter-signup">Newsletter (FREE!)</a>
+                </div>
+              </div>
+              <!-- <a class="nav-item nav-link mt-auto" href="https://donate.earthisland.org/page/20964/donate/1
+" target="_blank">Subscribe</a> -->
+              <a class="nav-item nav-link mt-auto" href="https://donate.earthisland.org/page/20896/donate/1" target="_blank">Donate</a>
+              <!-- <a class="nav-item nav-link mt-auto" href="/journal/index.php/page/newsletter-signup">Newsletter</a> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row tier2">
+        <div class="col">
+          <div class="nav d-flex">
+            <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php"><i class="fa fa-home"></i></a>
+            <a class="nav-item nav-link active" href="https://www.earthisland.org/journal/index.php/articles">The Latest</a>
+            <a class="nav-item nav-link " href="https://www.earthisland.org/journal/index.php/magazine/issue">Magazine</a>
+            <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/podcast">Podcast</a>
+            <a class="nav-item nav-link mr-auto " href="https://www.earthisland.org/journal/index.php/magazine/archive">Archive</a>
+            <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/page/who-we-are">About</a>
+            <a href="#" class="nav-item nav-link search-button"><span class="fa fa-search"></span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container d-block d-sm-block d-md-none d-lg-none d-xl-none">
+      <nav class="navbar navbar-expand-* navbar-light align-content-start ">
+        <div class="navbar-brand">
+          <a class="logo" href="https://www.earthisland.org/journal/index.php/" title="Home" rel="home">
+            <img src="/Journal-logo-2018-final-blue-02.svg" class="eij-logo eij-logo-blue" alt="Earth Island Journal Home">
+            <img src="/Journal-logo-2018-versions-02-white-no-whitespace.png" class="eij-logo eij-logo-white" alt="Earth Island Journal Home"/>
+          </a>
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#eij-page-header-navigation" aria-controls="eij-page-header-navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse " id="eij-page-header-navigation">
+          <div class="navbar-nav mr-auto align-items-end">
+  <a class="nav-item nav-link active" href="https://www.earthisland.org/journal/index.php/articles">The Latest</a>
+  <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/magazine">Magazine</a>
+  <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/podcast">Podcast</a>
+  <a class="nav-item nav-link" href="https://www.earthisland.org/journal/index.php/magazine/archive">Archive</a>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle d-flex align-items-center justify-content-end" href="#" id="eij-header-nav-about-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      About
+    </a>
+    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="eij-header-nav-about-dropdown">
+      <a class="dropdown-item" href="https://www.earthisland.org/journal/index.php/page/who-we-are" title="Who we are">Who we are</a>
+      <a class="dropdown-item" href="https://www.earthisland.org/journal/index.php/page/about-the-journal" title=" About the Journal">About the Journal</a>
+      <a class="dropdown-item" href="https://www.earthisland.org/journal/index.php/page/writers-photographers-guidelines" title="Writers/Photographers guidelines">Writers/Photographers guidelines</a>
+      <a class="dropdown-item" href="/journal/team" title="Staff">Staff</a>
+      <a class="dropdown-item" href="/index.php/contact" title="Contact">Contact</a>
+    </div>
+  </li>
+  <li class="dropdown dropdown-menu-right">
+    <a class="nav-link dropdown-toggle d-flex align-items-center justify-content-end" type="button" id="dropdownMobileMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Subscribe
+    </a>
+    <div class="dropdown-menu" aria-labelledby="dropdownMobileMenuButton">
+      <a class="dropdown-item" href="https://donate.earthisland.org/page/20964/donate/1
+">Subscribe to the magazine</a>
+      <a class="dropdown-item" href="https://donate.earthisland.org/page/21066/donate/1">Give a gift subscription</a>
+      <a class="dropdown-item" href="/journal/index.php/page/newsletter-signup">Newsletter (FREE!)</a>
+    </div>
+  </li>
+
+  <a class="nav-item nav-link" href="https://donate.earthisland.org/page/20896/donate/1" target="_blank">Donate</a>
+  <div class="d-flex">
+    <a class="nav-item nav-link search-button pl-3" href="https://www.facebook.com/EarthIslandJournal" target="_blank" title="find us on Facebook"><i class="fa fa-facebook"></i></a>
+    <a class="nav-item nav-link search-button pl-3" href="https://twitter.com/earthislandjrnl" target="_blank" title="follow us on Twitter"><i class="fa fa-twitter"></i></a>
+    <a class="nav-item nav-link search-button pl-3" href="https://www.instagram.com/earthislandjournal/" target="_blank" title="follow us on Instagram"><i class="fa fa-instagram"></i></a>
+    <a class="nav-item nav-link search-button pl-3" href="mailto:editor@earthisland.org" title="email the editor"><i class="fa fa-envelope"></i></a>
+    <a href="#" class="nav-item nav-link search-button pl-3" title="search the Journal website"><span class="fa fa-search"></span></a>
+  </div>
+</div>
+
+        </div>
+      </nav>
+    </div>
+  </div>
+</page-header>
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5STSHSZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+<section class="journal-article">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+		  
+        <div class="article-tags">
+  
+</div>
+
+        <h1>The Environmental Destruction Wrought by War</h1>
+        <div class="subhead">
+        Over the past 60 years competition over natural resources has played an increasing role in driving armed conflict.
+        </div>
+		  
+        <div class="article-info article-info-head">
+          
+
+<div class="credits">
+  <h6 class="contribution"></h6>
+  
+    <span class="author">Gar Smith</span>
+  
+</div>
+
+
+
+
+          <div class="publish-date"><span class="eij-date">September 20, 2017</span>
+</div>
+        </div>
+
+<div class="d-flex align-items-center" style="font-size: 1.25em; text-align: left; margin: -0.75em 0 0.75em 0;">    <!--  -0.75em  -7.5em -->
+	<a href="http://www.facebook.com/sharer.php?u=https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war" target="_blank" style="color: #00193F;" title="share this article on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/share?source=tweetbutton&text=The Environmental Destruction Wrought by War&url=https://www.earthisland.org/index.php/articles/entry/environmental_destruction_war" target="_blank" style="padding-left: 1.25em; color: #00193F;" title="share this article on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="mailto:?subject=The Environmental Destruction Wrought by War&body=https%3A%2F%2Fwww.earthisland.org%2Fjournal%2Findex.php%2Farticles%2Fentry%2Fenvironmental_destruction_war%2F" style="padding-left: 1.25em; color: #00193F;" title="mail this article to someone"><i class="fa fa-envelope"></i></a>
+  
+</div>
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="article-entry journal-article">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+        <p><i>Editor’s Note, February 23, 2022; 11:50 p.m.: Upping this 2017 excerpt from Journal editor emeritus Gar Smith’s book in light of Russia’s invasion in Ukraine on this day.</i></p>
+
+<p><i><br>
+ </i></p>
+
+<p>Even before war breaks out, the Earth suffers. Minerals, chemicals, and fuels are violently wrested from Earth’s forests, plains, and mountains. Much of this bounty is transformed into aircraft, gunboats, bullets, and bombs that further crater, sear, and poison the land, air, and water of our living planet. War is, and has always been, nature’s nemesis.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+  
+
+
+
+
+<section class="eij-masonry-grid">
+  
+    
+    <div class="masonry-container  masonry-col-4">
+      <div class="masonry-grid masonry-grid-1">
+    
+
+        <div class="masonry-grid-item  masonry-width-4 ">
+          
+          <div class="">
+            <a href="https://farm5.staticflickr.com/4201/34419908534_43217ace18_z.jpg" data-lightbox="masonry-gallery-1" data-title="Marines participate in a training exercise in southern California. US military activities exact a large toll on the environment. Photo by  Marines, Flickr.">
+              <img src="https://farm5.staticflickr.com/4201/34419908534_43217ace18_z.jpg" alt="">
+            </a>
+          </div>
+          
+          
+          <div class=""><p>Marines participate in a training exercise in southern California. US military activities exact a large toll on the environment. Photo by <a href="https://www.flickr.com/photos/marine_corps/34419908534/in/photolist-Urz2CS-5XKLLd-8JdF27-eKeG2a-aMVHX-9YZwJb-9YZwEu-4xzqMG-fkg4Sm-TbQ51H-waqyvh-T4g6tm-Xt8GF6-5ED2bq-aanRra-SNXzvB-4ELnCs-mFfPnP-8ytHbH-WMDxj7-Wzw9dN-acuqv-8auTpW-jMpZpH-mHi7o4-2496fU-ax8a7V-quvs6k-5o5SDa-5qrTwn-dWLpxM-6aXji1-hQ7ySP-7TCm9z-S64RyZ-qfJSkE-qspmL1-Uq7ZJW-9SWzKm-dXd2LM-8bE29S-ihfGW5-FVoe4e-fkZicc-qrsQ7W-fjZTL2-bdQTyM-fkfs9L-qkUm5P-rjuhMz"> Marines, Flickr</a>.</p></div>
+          
+        </div>
+      
+        </div>
+      </div>
+      
+    
+
+  <script>
+    $('.masonry-grid-1').imagesLoaded( function() {
+      // console.log('.masonry-grid-1 imagesLoaded (b)');
+      // init Masonry after all images have loaded
+      $('.masonry-grid-1').masonry({
+        itemSelector: '.masonry-grid-item',
+        columnWidth:320,
+        fitWidth:true,
+      });
+    });
+    lightbox.option({
+      'resizeDuration': 100,
+      'imageFadeDuration':100,
+      'fadeDuration':100,
+      'disableScrolling':true
+    });
+
+  </script>
+</section>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<section class="article-entry journal-article">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+        <p>In his 2001 book <i>War and Nature,</i> Edmund Russell observed: “Since at least the days of the Old Testament, we have seen war and interactions with nature as separate, even opposite, endeavors…. Military historians have pushed beyond studies of battles and armies to examine the impact of military institutions on civilian society — but rarely on nature. Environmental historians have emphasized the role of nature in many events of our past — but rarely in war.”</p>
+
+<p>Environmental activists, however, have a surprisingly long history of confronting militarism. The environmental movement of the sixties emerged, in part, as a response to the horrors of the Vietnam War — Agent Orange, napalm, carpet-bombing — and the abiding threat of nuclear war.</p>
+
+<p>In 1971, Greenpeace got its start challenging a planned US nuclear test on one of Alaska’s Aleutian Islands. The founders explained that they intentionally chose “Greenpeace” because it was “the best name we can think of to join the two great issues of our times, the survival of our environment and the peace of the world.” Greenpeace’s 1976 Declaration of Interdependence began: “We have arrived at a place in history where decisive action must be taken to avoid a general environmental disaster. With nuclear reactors proliferating and over 900 species on the endangered list, there can be no further delay or our children will be denied their future.”</p>
+
+<p>But challenging the profit-driven and the power-hungry — whether they are corporate polluters or the Pentagon itself — comes with risks. In June 1975, a team of Greenpeace activists attempted to disrupt the “Whale Wars” raging off the California coast by placing their rubber boat between a pod of whales and the guns of a Russian whaler. The activists were nearly killed when the Russians fired a harpoon directly over their heads.</p>
+
+<p>On July 10, 1985, while I was visiting the Greenpeace International office in Amsterdam, we received some shocking news: the <i>Rainbow Warrior</i>, the organization’s flagship, had been blown up in Auckland harbor and Fernando Pereira, a Greenpeace photographer, had been killed. It was later revealed that this well-planned, premeditated terrorist attack was an act of “state-sponsored terrorism.” The French government had ordered a team of 13 secret agents to sink the vessel and prevent Greenpeace from protesting a French atomic weapons test in the South Pacific.</p>
+
+<h5>Terracide</h5>
+
+<p>Over the centuries, armies have fought for a wide array of reasons — land, water, food, slaves. Over the past 60 years, however, competition over natural resources has played an increasing role in driving armed conflict. According to a 2013 UN Environment Programme report, at least 40 percent of all intrastate conflicts involved the exploitation of natural resources — land, water, diamonds, timber, minerals, and, of course, oil.</p>
+
+<p>In its FY 2010 <i>Base Structure Report</i>, the Pentagon disclosed that its global empire included more than 539,000 facilities at nearly 5,000 sites covering more than 28 million acres. With the world’s largest air force and naval fleets, the Pentagon is the world’s greatest institutional consumer of oil and a leading producer of climate-changing CO2.</p>
+
+<p class="graphicLeft"><img src="https://farm5.staticflickr.com/4430/36690327383_2d53c63386_z.jpg" alt="movie poster" width="380"></p>
+
+<p>The Pentagon has admitted to burning 320,000 barrels of oil a day — but that estimate ignores fuel consumed by its contractors and weapons producers.</p>
+
+<p>Despite being the planet’s greatest institutional emitter of climate-destabilizing gases, the Pentagon is exempt from reporting its pollution. This exemption covers weapons testing, military exercises, and “peacekeeping” missions. The United States insisted on this exemption during the 1998 Kyoto Protocol negotiations on the United Nations Framework Convention on Climate Change. After winning this concession, George W. Bush subsequently rejected the Kyoto Accord, claiming that it “would cause serious harm to the [oil-dependent] US economy.”</p>
+
+<p>After the United States’ disastrous 2003 invasion of Iraq, Gen. John Abizaid, former head of the US Central Command, told a crowd at a 2008 Stanford University roundtable: “Of course, it’s about oil; we can’t really deny that.” Defense Secretary Chuck Hagel, speaking with equal candor in September 2007, told a group of Catholic University law students: “People say we’re not fighting for oil. Of course we are.”</p>
+
+<p>Even when not engaged in outright acts of war, the Pentagon’s far-flung operations impose damaging environmental burdens around the world. Inside America’s borders, more than 11,000 military dumps simmer with a witches’ brew of explosives, chemical warfare agents, toxic solvents, and heavy metals. The military is responsible for at least 900 of the country’s 1,300 super-toxic “Superfund” sites.</p>
+
+<p>Of course, the United States is not the only “superpower” to despoil the Earth. Russia’s military has poisoned vast stretches of its own homeland — including boreal forests and Arctic waters. China’s nuclear testing zone at Lop Nor and Britain’s A-bomb range in Australia’s Outback irradiated vast regions with cancer-causing fallout. But the scale of environmental destruction wrought by the US military tops all the others.</p>
+
+<h5>Seeking Ecolibrium</h5>
+
+<p>One of the first mainstream environmental leaders to formally recognize warfare as an enemy of nature was David Ross Brower, who played a legendary role in the movement as executive director of the Sierra Club and founder of the Friends of the Earth (FOE) and Earth Island Institute. In 1970, he and other environmental leaders sent a telegram to President Richard Nixon protesting the devastation of the US war in Vietnam. Brower followed up with an “open letter” from FOE. The statement, entitled “Ecology and War,” was designed to run as a full-page ad in the <i>New York Times</i>. (Twelve years later, Brower included the statement as a centerfold ad in the October 1982 issue of FOE’s newsmagazine, <i>Not Man Apart</i>. This time the message was addressed to President Ronald Reagan.)</p>
+
+<p>“Until recently,” Brower wrote, “we were content to work for our usual constituency: Life in its miraculous diversity of forms…. We have left it for others to argue about war.”</p>
+
+<p>That had to change, he explained, because “countries obsessed with the glamours of militarism remain blind to other ecological perils.” Citing a 1980 White House report, Brower ticked off a host of impending environmental threats — global water shortages, loss of forest cover, expanding deserts, increasing levels of climate-altering gases, the destruction of wildlife habitats — all signs of ecosystems in collapse or, as Brower’s ad put it, “a Holocaust, except in slow motion, without the fireball.”</p>
+
+<p>His appeal ended with a call for “a new political language” that acknowledged the futility of “belligerency [and] competition for resources on a finite planet.” He argued that “exploitation of people and nature are behaviors that have failed. They are out of date. We need to seek people skilled in the arts of peace…. We need to attend to other problems — poverty and the coming breakdown of the planet’s life-support systems.”</p>
+
+<p>Brower’s plea was taken up more than two decades later when the 1992 United Nations Conference on Environment and Development issued the Rio Declaration, which stated: “Warfare is inherently destructive of sustainable development. States shall therefore respect international law providing protection for the environment in times of armed conflict.”</p>
+
+<p>This is hardly a novel observation. In his classic fifth-century BC study, <i>The Art of War</i>, Chinese military strategist Sun Tzu wrote: “No country has ever profited from protracted warfare.” Instead of promoting scorched-earth tactics, the wise general urged soldiers to “fight under Heaven with the paramount aim of ‘preservation.’”</p>
+
+<p>Even the Pentagon has appeared increasingly ready to recognize the strategic value of maintaining a sustainable planet. In October 2014, a Pentagon report identified climate change as an “immediate threat” to national security, echoing a 2003 Pentagon prediction that climate change could “prove a greater risk to the world than terrorism.” While the <i>2014 Global Terrorism Index</i> listed 100,000 lives lost to terrorist acts over a period of 13 years, the 2010 edition of the <i>Climate Vulnerability Monitor </i>reported that climate change claimed 400,000 lives and cost the world economy $1.2 trillion — in a single year.</p>
+
+<p>In June 2016, <i>National Geographic</i> (citing research findings from Amsterdam’s Vrije Universiteit) warned that new perils were likely to arise from the collision of war and nature. “Wars, murders, and other acts of violence will likely become more commonplace in coming decades as the effects of global warming cause temperatures to flare worldwide.” A interdisciplinary team of researchers from Princeton and the University of California at Berkeley have predicted incidents of personal violence, civil unrest, and war could increase 56 percent by 2050 as the planet warms, accelerating droughts, floods, disease, crop failures, and mass migrations.<b> <br>
+ </b></p>
+
+<h5>Our Troubled Path</h5>
+
+<p>Today, we stand at a precipice. Biospheres are collapsing, a Sixth Extinction is underway, and on January 2017, the Bulletin of Atomic Scientists’ “Doomsday Clock,” which illustrates how close the planet stands to a nuclear holocaust, was moved to 2.5 minutes before midnight. That chilling recalibration was attributed to the global rise of “strident nationalism” and the bellicose posturing of Donald J. Trump — a narcissistic leader who denies the threat of climate change and seems oblivious to the risks of thermonuclear war. </p>
+
+<p>As a presidential candidate in 2016, Trump told MSNBC’s Chris Matthews: “Somebody hits us within ISIS — you wouldn’t fight back with a nuke?” When Matthews protested that “nobody wants to hear that” from someone running for president, Trump shot back: “Then why are we making them?” Trump has repeatedly refused to take the nuclear option “off the table,” explaining to <i>Meet the Press</i> host John Dickerson in 2016 that, as a world leader, “You want to be unpredictable.”</p>
+
+<p>In one of his early acts as president, Trump endorsed President Barack Obama’s unconscionable plan to spend $1 trillion rebuilding America’s “nuclear arsenal.” Trump had long made his reputation and his fortune by acting as a crude bully. But the world has too many bullies spoiling for a fight.</p>
+
+<p>In his 1949 book, <i>The Immense Journey: An Imaginative Naturalist Explores the Mysteries of Man and Nature</i>, the American anthropologist, educator, and natural science writer Loren Eiseley offered a different vision: “The need is now for a gentler, a more tolerant people than those who won for us against the ice, the tiger and the bear. The hand that hefted the ax, out of some old blind allegiance to the past, fondles the machine gun as lovingly. It is a habit we will have to break to survive, but the roots go very deep.”</p>
+
+<p>In 2017, polluter-versus-protector tensions escalated dramatically when Donald Trump marched into the White House. Trump’s inaugural budget called for defunding a range of humanitarian programs — health and human services, education, arts, Meals on Wheels, and environmental protections — to shift another $54 billion to the Pentagon. Following through on his campaign declaration to “bomb the shit out of [ISIS]! I don’t care,” Trump increased airstrikes in Afghanistan, Iraq, Syria, and Yemen, resulting in the deaths of hundreds of civilian men, women and children — and triggering a new spike in anti-American anger.</p>
+
+<p>On the home front, Trump revived controversial oil pipeline projects, renewed support for coal mining, gutted anti-pollution regulations, and targeted Obama’s Clean Energy Plan. Protesting a fictional “War on Coal,” Trump reasserted the industry’s “right” to dump mine tailings into mountain streams. He threatened to withdraw from the Paris Climate Accord. He shredded pollution reduction goals for US automakers, declared his intent to open public lands to oil and gas drilling, and filled his cabinet with a swamp-load of wealthy, carbon-friendly, pro-business, and big-bank insiders.</p>
+
+<p>Trump also brought unique conflicts of interest to his role as commander-in-chief. When he launched his unconstitutional attack on Syria’s al-Shayrat airfield on April 7, 2017, Trump may have been inflating not only his reputation as a powerful world leader but also his personal fortunes as well. Unlike previous US.presidents, Trump holds investment properties around the world and owns shares in hundreds of companies. As recently as 2016, Trump’s investments included Raytheon, maker of the 59 Tomahawk cruise missiles fired at Syria. When Trump launched $93.8 million worth of missiles that week, the value of Raytheon stocks soared.</p>
+
+<p>While Trump’s tax forms remain a state secret, <i>Fortune</i> magazine reported in August 2016 that his top holdings included shares in Phillips 66, a major oil company. Trump’s 2016 federal disclosure forms show he owned stock in Energy Transfer Partners, the firm behind the Dakota Access oil pipeline. President Obama halted the construction of the pipeline on environmental grounds. Trump revived it.</p>
+
+<h5><b>Unity over Division</b></h5>
+
+<p>The rich and powerful clearly understand the strategy of “divide and conquer.” The “one percent” has less to fear from a “99 percent” subdivided into scores of competing cadres. Civil discord, when it turns violent, is the preamble to civil war. Instead of working together to find cures to existential problems — rising temperatures, sea levels, and populations; falling incomes, water tables, and food harvests — we risk finding ourselves immobilized by suspicion, anger, and fear.</p>
+
+<p>In her 2017 Earth Day statement, US Rep. Tulsi Gabbard (D-HI) declared: “Change is coming and it’s up to us whether that change will be transformative or catastrophic. We don’t have time to fight amongst each other. We don’t have time to engage in partisan rhetoric and bickering. We must be the change we want to see in the world. The future of the human race depends on it.”</p>
+
+<p>Instead of fortifying our cities and neighborhoods against one another, we need to forge coalitions to promote common-ground solutions that will protect our shared, life-sustaining planetary biosphere. Instead of promoting sectarian/ideological competition and “fighting to win,” we need to exercise compassion and hone our cooperate skills if we are to survive.</p>
+
+<p>We need to illuminate the economic, political, and cultural drivers of permawar, detail the cascading dangers of terracide, and provide guideposts and goals for achieving ecolibrium — a human presence on Earth that exists in balance with nature. One way or another, our planet will be transformed. It’s our job to strive for a peaceful, just, and sustainable future.</p>
+
+<p><i><span>This excerpt is published here under a Creative Commons license by kind permission of Gar Smith and Just World Books. Please reuse this material only with explicit acknowledgment of the foregoing publication details, and in a not-for- profit context.</span></i></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+  
+
+
+
+<section class="article-entry journal-article">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+        <div class="row article-info article-info-foot">
+  
+  
+    
+      <div class="col-12 author">
+        <h6 class="author">Gar Smith</h6>
+        <p class="author-bio"><strong>Gar Smith</strong> is editor emeritus of <i>Earth Island Journal</i> and author of the book <a href="https://www.powells.com/book/-9781603584340">Nuclear Roulette: The Truth about the Most Dangerous Energy Source on Earth</a>.</p>
+      </div>
+    
+  
+  
+</div>
+   
+        
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+        <div class="move-me w-100 text-dark my-3 p-4" style="background-color:#5f99ab; border-radius:.3em; display:inline-block;">
+          <!-- Begin Engaging Network Signup Form -->
+<div id="mc_embed_signup" class="bg-transparent">
+  <form action="https://donate.earthisland.org/page/46368/subscribe/2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+      <h5 class="font-weight-bold text-center text-uppercase"><i class="fa fa-paper-plane mr-1 fa-lg"></i> Get the <em>Journal</em> in your inbox.</h5>
+      <h6 class="text-center mb-3">Sign up for our biweekly newsletter.</h6>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+<input type="text" name="supporter.NOT_TAGGED_46" tabindex="-1" value="" id="en__field_supporter_NOT_TAGGED_46"></div>  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div class="input-group mb-0">
+<input id="en__field_supporter_emailAddress" type="email" value="" name="supporter.emailAddress" class="required email form-control" placeholder="Email" aria-label="Your email address">
+<input id="en__field_supporter_questions_537537" checked type="checkbox" style="display: none;" value="Y" name="supporter.questions.537537" aria-label="EIJ newsletter" />
+        <div class="input-group-append">
+<button class="btn btn-dark px-lg-5 px-2 m-0" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" >Sign up</button>
+        </div>
+      </div>
+      <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>
+    </div>
+  </form>
+</div>
+<!--End en_embed_signup-->
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+        
+        <div class="article-end-ask mt-4 p-3 bg-warning">
+  <h3 class="d-none d-sm-block">You Make Our Work Possible</h3>
+  <h5 class="d-block d-sm-none">You Make Our Work Possible</h5>
+  <p>We don’t have a paywall because, as a nonprofit publication, our mission is to inform, educate and inspire action to protect our living world. Which is why we rely on readers like you for support. If you believe in the work we do, <a href="https://donate.earthisland.org/page/20896/donate/1" target="_blank" title="make a donation"><strong>please consider making a tax-deductible year-end donation to our Green Journalism Fund.</strong></a></p>
+  <a class="btn btn-eij btn-lg eij-system-font" title="make a donation" href="https://donate.earthisland.org/page/20896/donate/1">Donate</a>
+</div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<section id="moveable-section" class="inline-subscribe " style="">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+        <div class="move-me w-100 text-dark my-3 p-4" style="background-color:#5f99ab; border-radius:.3em; display:inline-block;">
+           <!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="bg-transparent">
+  <form action="https://earthislandjournal.us19.list-manage.com/subscribe/post?u=33b0610253bc51a49b5d640b1&amp;id=ee2d4129ba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+      <h5 class="font-weight-bold text-center text-uppercase"><i class="fa fa-paper-plane mr-1 fa-lg"></i> Get the <em>Journal</em> in your inbox.</h5>
+      <h6 class="text-center mb-3">Sign up for our biweekly newsletter.</h6>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_33b0610253bc51a49b5d640b1_ee2d4129ba" tabindex="-1" value=""></div>  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div class="input-group mb-0">
+        <input id="mce-EMAIL" type="email" value="" name="EMAIL" class="required email form-control" placeholder="Email" aria-label="Your email address" aria-describedby="mc-embedded-subscribe">
+        <div class="input-group-append">
+          <button class="btn btn-dark px-lg-5 px-2 m-0" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" >Sign up</button>
+        </div>
+      </div>
+      <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>
+    </div>
+  </form>
+</div>
+<!--End mc_embed_signup-->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+// moves the section to the center <p> in the article body
+$(document).ready(function(){
+  // Addition to jQuery to get the inner text width
+  function textWidth(el){
+    var text = $(el).html();
+    $(el).html('<span>'+text+'</span>');
+    var width = $(el).find('span:first').width();
+    $(el).html(text);
+    return width;
+  };
+
+  function element_has_class(el,the_class){
+    if($(el).prev().hasClass(the_class)) {
+      return true;
+    }
+    return false;
+  }
+  function element_has_image(el){
+    if($(el).find("img,iframe").length > 0) {
+      return true;
+    }
+    return false;
+  }
+  function element_has_wrapping_text(el){
+    // where the #text is more narrow than it's <p>
+    if(textWidth(el) / el.width() < .9){
+      // console.log(textWidth(el) / el.width());
+      return true;
+    }
+    return false;
+  }
+  function element_is_not_a_p(el){
+    if(!el.is("p")) return true;
+    return false;
+  }
+  function destination_is_problematic(el){
+    if(element_has_class(el,"pullquote")){
+      // console.log( "el has pullquote" );
+      return true;
+    } else if (element_has_image(el)){
+      // console.log( "el has img" );
+      return true;
+    } else if ( element_has_wrapping_text(el) ){
+      // console.log( "el has wrapping text" );
+      return true;
+  } else if ( element_is_not_a_p(el)){
+    // console.log( "el is not a p" );
+    return true;
+  } else {
+      // console.log( " el placement is not problematic" );
+  }
+
+    return false;
+  }
+  // var article_paragraphs=$('.journal-article p').length;
+  // you can put "inline-subscribe-goes-above" as an attribute on a <p> to set the destination
+  var starting_p = 3;
+  var the_section=$('#moveable-section .move-me');
+  var possible_destinations=$('.journal-article p');
+  possible_destinations.each(function(index,value){
+    // console.log("destination: ",index, value);
+    if(index>=starting_p
+    && !destination_is_problematic($(this))
+    && !destination_is_problematic($(this).prev())
+    // && !destination_is_problematic($(this).next())
+    // don't check next() elment because we're placing the element before the destination
+    ){
+      the_section.detach().insertBefore($(this));
+      $('#moveable-section').remove();
+      return false; // stop the each() loop
+    } else {
+      // $(this).css("background","red");
+    }
+  });
+});
+</script>
+
+
+<section class="mc-more-stories">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- <a href="https://www.earthisland.org/journal/index.php/articles" class="btn-border-white"> See more stories like this </a> -->
+            </div>
+            <div class="col-md-6">
+                <div class="share-items">
+                      <span class="links-txt">
+                        Share this article:
+                      </span>
+                    <ul class="share-section">
+                        <li><a href="#" data-share-type="facebook" data-role="share"
+                               data-share-url="http://www.facebook.com/sharer.php?u=https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war"><i
+                                class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#" data-share-type="twitter" data-role="share"
+                               data-share-url="http://twitter.com/intent/tweet/?url=https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war&text=The Environmental Destruction Wrought by War"><i
+                                class="fab fa-twitter"></i></a></li>
+                        <li><a href="#" data-share-type="mail" data-role="share"
+                               data-share-url="mailto:?subject=Check this link from Earth Island Journal&body=The Environmental Destruction Wrought by War Over the past 60 years competition over natural resources has played an increasing role in driving armed conflict."><i
+                                class="far fa-envelope"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="comments">
+	<div class="container">
+		<div class="row d-flex justify-content-center">
+			<div class="col-12 col-sm-10 col-md-9 col-lg-8 col-xl-7">
+
+				<div id="disqus_thread"></div>
+				<script>
+
+				var disqus_config = function () {
+					this.page.url = "https://www.earthisland.org/journal/index.php/magazine/entry/environmental_destruction_war";  // Replace PAGE_URL with your page's canonical URL variable
+					this.page.identifier = "6970"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+					this.callbacks.onNewComment = [function(comment) {
+              ga('send', {
+                'hitType': 'event',            // Required.
+                'eventCategory': 'Engagement',   // Required.
+                'eventAction': 'Comment',  // Required.
+                'eventLabel': 'New Comment'
+            });
+	        }];
+				};
+
+				(function() { // DON'T EDIT BELOW THIS LINE
+				var d = document, s = d.createElement('script');
+				s.src = 'https://earth-island-journal.disqus.com/embed.js';
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+				})();
+				</script>
+				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+<section class="">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="section-head">The Latest</h1>
+      </div>
+    </div>
+    <div class="row ajax-wrapper">
+      
+      <div class="col-12 col-sm-6 col-xl-3">
+        <div class="article-preview article-preview-3 image-top ">
+  
+  <div class="image-container" style="background-image:url(https://live.staticflickr.com/65535/52794768662_0c819f1372_b.jpg);" title="Meet the Artist on a Mission to Save Pakistan’s Indus River and its Dolphin">
+    <img class="" src="https://live.staticflickr.com/65535/52794768662_0c819f1372_b.jpg" >
+    <div class="overlay"></div>
+  </div>
+  
+  <div class="text-container">
+    
+    <div class="title">Meet the Artist on a Mission to Save Pakistan’s Indus River and its Dolphin</div>
+    
+    <p class="subhead bigtext-exempt">Long before last year’s record floods, Zulfikar Ali Bhutto set out to highlight the fragility and cultural significance of this ancient waterway.<div class='credits'>
+
+
+  
+  <span class='author'>Samia Qaiyum</span>
+  
+
+
+</div></p>
+    
+    
+  </div>
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/artist-zulfikar-ali-bhutto-is-on-a-mission-to-save-the-indus-river-dolphin" class="coverall"></a>
+  
+</div>
+
+      </div>
+
+      
+
+      
+      <div class="col-12 col-sm-6 col-xl-3">
+        <div class="article-preview article-preview-3 image-top ">
+  
+  <div class="image-container" style="background-image:url(https://live.staticflickr.com/65535/52275162214_2df8c72de5_b.jpg);" title="Shortage of Native Seeds Is Slowing Land Restoration Across the US">
+    <img class="" src="https://live.staticflickr.com/65535/52275162214_2df8c72de5_b.jpg" >
+    <div class="overlay"></div>
+  </div>
+  
+  <div class="text-container">
+    
+    <div class="title">Shortage of Native Seeds Is Slowing Land Restoration Across the US</div>
+    
+    <p class="subhead bigtext-exempt">Repairing damaged landscapes is a critical strategy for slowing climate change and species loss.<div class='credits'>
+
+
+  
+  <span class='author'>Julia Kuzovkina and John Campanelli</span>
+  
+
+
+</div></p>
+    
+    
+  </div>
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/shortage-native-seeds-slowing-land-restoration-across-us" class="coverall"></a>
+  
+</div>
+
+      </div>
+
+      
+
+      
+      <div class="col-12 col-sm-6 col-xl-3">
+        <div class="article-preview article-preview-3 image-top ">
+  
+  <div class="image-container" style="background-image:url(https://live.staticflickr.com/4837/31954010838_15b640772f_b.jpg);" title="Looking Down to Plan Ahead">
+    <img class="" src="https://live.staticflickr.com/4837/31954010838_15b640772f_b.jpg" >
+    <div class="overlay"></div>
+  </div>
+  
+  <div class="text-container">
+    
+    <div class="title">Looking Down to Plan Ahead</div>
+    
+    <p class="subhead bigtext-exempt">In India, cities are restoring ancient stepwells to build climate resilience. <div class='credits'>
+
+
+  
+  <span class='author'>Shruti Ganesh</span>
+  
+
+
+</div></p>
+    
+    
+  </div>
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/restored-stepwells-capture-rainwater-build-climate-resilience-in-india" class="coverall"></a>
+  
+</div>
+
+      </div>
+
+      
+
+      
+      <div class="col-12 col-sm-6 col-xl-3">
+        <div class="article-preview article-preview-3 image-top ">
+  
+  <div class="image-container" style="background-image:url(https://live.staticflickr.com/65535/52749836088_3111d10e7e_b.jpg);" title="EPA Sets ‘Groundbreaking’ Limits on Six Toxic ‘Forever Chemicals’ in Drinking Water">
+    <img class="" src="https://live.staticflickr.com/65535/52749836088_3111d10e7e_b.jpg" >
+    <div class="overlay"></div>
+  </div>
+  
+  <div class="text-container">
+    
+    <div class="title">EPA Sets ‘Groundbreaking’ Limits on Six Toxic ‘Forever Chemicals’ in Drinking Water</div>
+    
+    <p class="subhead bigtext-exempt">Extraordinary new limits introduced to require municipal utilities to remove six PFAS compounds from drinking water.<div class='credits'>
+
+
+  
+  <span class='author'>Tom Perkins</span>
+  
+  <span class='author'>The Guardian</span>
+  
+
+
+</div></p>
+    
+    
+  </div>
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/epa-sets-limits-on-6-toxic-pfas-or-forever-chemicals-in-drinking-water" class="coverall"></a>
+  
+</div>
+
+      </div>
+
+      
+
+      
+      <div class="col-12 col-sm-6 col-xl-3">
+        <div class="article-preview article-preview-3 image-top ">
+  
+  <div class="image-container" style="background-image:url(https://live.staticflickr.com/8133/30265820325_f18612e7af_b.jpg);" title="Biden Administration Approves Controverial Willow Drilling Project in Alaska’s North Slope">
+    <img class="" src="https://live.staticflickr.com/8133/30265820325_f18612e7af_b.jpg" >
+    <div class="overlay"></div>
+  </div>
+  
+  <div class="text-container">
+    
+    <div class="title">Biden Administration Approves Controverial Willow Drilling Project in Alaska’s North Slope</div>
+    
+    <p class="subhead bigtext-exempt">Critics say the project is a ‘carbon bomb’ that runs counter to president’s climate goals.<div class='credits'>
+
+
+  
+  <span class='author'>Maureen Nandini Mitra</span>
+  
+
+
+</div></p>
+    
+    
+  </div>
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/biden-administration-approves-willow-drilling-project-alaskas-north-slope" class="coverall"></a>
+  
+</div>
+
+      </div>
+
+      
+
+      
+      <div class="col-12 col-sm-6 col-xl-3">
+        <div class="article-preview article-preview-3 image-top ">
+  
+  <div class="image-container" style="background-image:url(https://live.staticflickr.com/6057/6375142109_d88f9f6fd0_o.jpg);" title="High Seas Treaty: Historic Deal to Protect International Waters Finally Reached at UN">
+    <img class="" src="https://live.staticflickr.com/6057/6375142109_d88f9f6fd0_o.jpg" >
+    <div class="overlay"></div>
+  </div>
+  
+  <div class="text-container">
+    
+    <div class="title">High Seas Treaty: Historic Deal to Protect International Waters Finally Reached at UN</div>
+    
+    <p class="subhead bigtext-exempt">After almost 20 years of talks, United Nations member states agree on legal framework for parts of the ocean outside national boundaries.<div class='credits'>
+
+
+  
+  <span class='author'>Karen McVeigh</span>
+  
+  <span class='author'>The Guardian</span>
+  
+
+
+</div></p>
+    
+    
+  </div>
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/high-seas-treaty-un-reaches-historic-deal-to-protect-international-waters" class="coverall"></a>
+  
+</div>
+
+      </div>
+
+      
+
+      
+  <a href="https://www.earthisland.org/journal/index.php/articles/entry/environmental_destruction_war/P6" class="col more-posts-please d-flex justify-content-center" id="next"><div class="align-self-center">See More Posts <i class="fa fa-arrow-circle-down"></i></div></a>
+
+
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-section eij-footer">
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-3 justify-content-center d-flex">
+                  <a href="https://www.earthisland.org/journal/index.php/">
+                  <img src="/Journal-logo-2018-versions-02-white-no-whitespace.png" class="footer-logo"/>
+                  </a>
+
+              </div>
+              <div class="col">
+                <div class="row d-flex align-items-start " role="navigation">
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="https://www.earthisland.org/journal/index.php/page/who-we-are" title="About the Journal">About the Journal</a> </li>
+    <li> <a href="https://www.earthisland.org/journal/index.php/page/who-we-are" title="Who we are">Who We Are</a> </li>
+    <li> <a href="https://www.earthisland.org/journal/index.php/page/who-we-are" title="Journal Editors">Journal Editors</a> </li>
+    <li> <a href="https://www.earthisland.org/journal/index.php/page/writers-photographers-guidelines" title="Writers Guidelines">Writers Guidelines</a> </li>
+    
+    <!-- <li><a href="/journal/index.php/page/associate-editor-06-22" title="Work With Us!">Work With Us!</a></li> --> 
+    
+     </div>
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="https://donate.earthisland.org/page/20964/donate/1
+" title="Subscribe">Subscribe</a> </li>
+    <li> <a href="https://www.earthisland.org/journal/index.php/page/newsletter-signup" title="Signup for our newsletter">Sign up for our newsletter</a> </li>
+    <li> <a href="https://www.earthisland.org/journal/index.php/page/contact" title="Contact the Journal">Contact</a> </li>
+    <li> <a href="https://donate.earthisland.org/page/20896/donate/1" target="_blank">Donate</a> </li>
+  </div>
+  
+  <!-- collection display start -->
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <span style="color: #fff; font-weight: bold;">Topics</span> </li>
+    <li> <a href="/journal/index.php/articles/collection/standing-rock-and-keystone-xl/" title="read more about Standing Rock and Keystone XL ">Standing Rock and Keystone XL </a> </li>
+    <li> <a href="/journal/index.php/articles/collection/shale-shocked/" title="read more about Fracking">Shale Shocked</a> </li>
+    <li> <a href="/journal/index.php/articles/collection/prisons-and-the-environment/" title="read more about Prisons and the Environment">Prisons and the Environment</a> </li>
+  </div>
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="#">&nbsp;</a> </li>
+    <li> <a href="/journal/index.php/articles/collection/plastic-pollution/" title="read more about Plastic Pollution">Plastic Pollution</a> </li>
+    <li> <a href="/journal/index.php/articles/collection/deforestation/" title="read more about Deforestation">Deforestation</a> </li>
+    <li> <a href="/journal/index.php/articles/collection/climate-change-global-warming/" title="read more about Climate Change">Climate Change</a> </li>
+  </div>
+  <!-- collection display end --> 
+  
+</div>
+              </div>
+          </div>
+      </div>
+  </div>
+    <div id="eii-footer-block" class="footer-section eii-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 justify-content-center d-flex">
+                    <a href="/">
+                    <img src="/components/site/default/asset/img/EARTH-ISLAND-LOGO-WHITE.svg" class="footer-logo"/>
+                    </a>
+
+                </div>
+                <div class="col">
+                  <div class="row d-flex align-items-start " role="navigation">
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="/index.php/project-support-program" title="Take Action">Our Work</a> </li>
+    <li> <a href="/index.php/project-support-program" title="Project Support Program">Project Support Program</a> </li>
+    <li> <a href="/index.php/project" title="Our Project Network" >Our Project Network</a> </li>
+    <li> <a href="/journal/" title="Earth Island Journal (You are here!)" class="active">Earth Island Journal</a> </li>
+    <li> <a href="http://www.broweryouthawards.org/" title="Youth Action" >New Leaders Initiative</a> </li>
+    <li> <a href="/index.php/advocates/">Earth Island Advocates</a> </li>
+  </div>
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="/index.php/take-action" title="Take Action">Take Action</a> </li>
+    <li> <a href="/index.php/take-action" title="Signup for Islandwire">Signup for Islandwire</a> </li>
+    <li> <a href="/index.php/project-support-program/start" title="Start a project">Become a project</a> </li>
+    <li> <a href="/index.php/take-action/opportunities" title="Job and Volunteer Opportunities">Work with us</a> </li>
+    <li> <a href="/index.php/more-ways-to-give" title="More ways to give">More ways to give</a> </li>
+  </div>
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="/index.php/aboutUs/welcome" title="Who we are">About us</a> </li>
+    <li> <a href="/index.php/aboutUs/welcome" title="Who we are">Who we are</a> </li>
+    <li> <a href="/index.php/david-brower" title="David Brower Legacy">David Brower Legacy</a> </li>
+    <li> <a href="/index.php/team" title="Our People">Our People</a> </li>
+    <li> <a href="/index.php/aboutUs/documents" title="Our Resources">Our Resources</a> </li>
+  </div>
+  <div class="col-6 col-sm-3">
+    <div class="d-block d-sm-none">&nbsp;</div>
+    <li> <a href="https://donate.earthisland.org/page/20632/donate/1" target="_blank">Donate</a> </li>
+  </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom-bar">
+        <div class="container">
+            <div class="row">
+                <div class="footer-bottom-bar-left col-md-6">
+                    <ul class="footer-bottom-links-nav">
+                        <li>
+                            <a href="/journal/index.php/page/contact">Contact Us</a>
+                        </li>
+                        <li>
+                            <a href="/index.php/aboutUs/privacy">Privacy Policy</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-bottom-bar-right col-md-6">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<!-- search - -->
+<div class="overlay-search" id="search-overlay" >
+    <button type="button" class="close">×</button>
+
+    <form id="searchform" method="post" action="https://www.earthisland.org/journal/index.php"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="22" />
+<input type="hidden" name="RES" value="5" />
+<input type="hidden" name="meta" value="3nDw9JdI/XdcqeaffnKxuNsmwvudMkhMBmCakOJE/F+kOC1/Yoa2qFEr7DKhgonjhiyDHAtlDT+hVgugRKhr0HjEHb9SYuBuSWDJvuh3T7ohqpBlZFwFn2EjfQMlTJ23tIFLJ6hQCuiAWfY+QCH7vDXUk2f12b86sMDFYLP8zuyFTBHzMfJ8dLSIERMmBTL+7kloqgQBxDUsZrit9HvN70Fv22oZ0NK74uHxxhOQZsrAWzkWZtaV+qggAjRz91WsjHB/zpPQn664TtELgkZEONJBV0EorTl9J1o6NyQZX4A80mGhZx9Dvee+EnPTzoY+rRLcXVr4IMPGthZQ8+68iP2snui3/9fm1cf8evdfYvBy7QeJGkey+hvY0nTFyf12Zn/vc/HFwH7Nw1tljd9Ko1QSItacRKUero4IFELVUH+zPSKMeNxYTaTHRJejx568x0ltBCW9qvgkH2p1a8EFw2C47obD8RddD5IGerSmEAqtOKiClKRZSX1N1vk0jghILzVtiwr25nQfwomsC8+mcA==" />
+<input type="hidden" name="site_id" value="2" />
+<input type="hidden" name="csrf_token" value="0754596d4c26dd59bddaf87dba758dd00dbf1382" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var firstcategory = 1;
+var firststatus = 1;
+
+function changemenu(index)
+{
+	var categories = new Array();
+
+	var i = firstcategory;
+	var j = firststatus;
+
+	var theSearchForm = false
+
+	if (document.searchform)
+	{
+		theSearchForm = document.searchform;
+	}
+	else if (document.getElementById('searchform'))
+	{
+		theSearchForm = document.getElementById('searchform');
+	}
+
+	if (theSearchForm.elements['channel_id'])
+	{
+		var channel_obj = theSearchForm.elements['channel_id'];
+	}
+	else
+	{
+		var channel_obj = theSearchForm.elements['channel_id[]'];
+	}
+
+	var channels = channel_obj.options[index].value;
+
+	var reset = 0;
+
+	for (var g = 0; g < channel_obj.options.length; g++)
+	{
+		if (channel_obj.options[g].value != 'null' &&
+			channel_obj.options[g].selected == true)
+		{
+			reset++;
+		}
+	}
+
+	with (theSearchForm.elements['cat_id[]'])
+	{	
+		if (channels == "16")
+		{	
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("News", "15"); i++; 
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("Opinion", "21"); i++; 
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("Press Releases", "16"); i++; 
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("Project Report", "23"); i++; 
+			categories[i] = new Option("The Long Game: Keeping Our Eyes On the Prize", "22"); i++; 
+
+		} // END if channels
+
+		
+		if (channels == "10")
+		{	
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("News", "15"); i++; 
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("Opinion", "21"); i++; 
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("Press Releases", "16"); i++; 
+			categories[i] = new Option("-------", ""); i++; 
+			categories[i] = new Option("Project Report", "23"); i++; 
+			categories[i] = new Option("The Long Game: Keeping Our Eyes On the Prize", "22"); i++; 
+
+		} // END if channels
+
+		
+		if (channels == "13")
+		{	
+
+		} // END if channels
+
+		
+		if (reset > 1)
+		{
+			 categories = new Array();
+		}
+
+		spaceString = eval("/!-!/g");
+
+		with (theSearchForm.elements['cat_id[]'])
+		{
+			for (i = length-1; i >= firstcategory; i--)
+				options[i] = null;
+
+			for (i = firstcategory; i < categories.length; i++)
+			{
+				options[i] = categories[i];
+				options[i].text = options[i].text.replace(spaceString, String.fromCharCode(160));
+			}
+
+			options[0].selected = true;
+		}
+
+	}
+}
+
+//]]>
+</script>
+
+		
+        <input class="search-input show-hidden" placeholder="Type to search..." type="text" name="keywords" id="keywords" value="" size="18" maxlength="100" required aria-label="search text">
+        <button type="submit" value="submit" class="search-submit submit" aria-label="search">
+            <i class="fa fa-search" aria-hidden="true"></i>
+        </button>
+    </form>
+
+
+</div>
+<!-- /search --> 
+
+<!-- <script src="https://code.jquery.com/jquery.js"></script> -->
+<script src="/components/site/default/asset/js/library/slick.min.js"></script>
+<script src="/components/site/default/asset/js/main.js?v=1.0.6"></script>
+    <!--
+<script src="/components/site/default/asset/js/csl_scripts/header.js"></script>
+<script src="/components/site/default/asset/js/csl_scripts/search.js"></script>
+-->
+
+
+</body>
+</html>
+
