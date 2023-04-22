@@ -8,8 +8,7 @@ Dashboard Public Link
 3. https://public.tableau.com/views/Analysingtheco2EmissionWorldWide/AnalysingtheCo2EmissionWorldWide?:language=en-GB&:display_count=n&:origin=vi
 4. https://public.tableau.com/views/AnalysingandComparingtheEmissionofIndia/AnalysingandComparingtheEmissionofIndia?:language=en-GB&:display_coun
 5. https://public.tableau.com/views/Co2EmissionandInternalFactors/Co2EmissionandIternalFactors?:language=en-GB&:display_count=n&:origin=v
-6. https://public.tableau.com/views/AnalysingtheCurrentData/AnalysingtheCurrentData?:language=
-en-GB&:display_count=n&:origin=viz_share_link
+6. https://public.tableau.com/views/AnalysingtheCurrentData/AnalysingtheCurrentData?:language=en-GB&:display_count=n&:origin=viz_share_link
 7. https://public.tableau.com/views/ContinentWiseAnalysis/ContinentWiseAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link
 8. https://public.tableau.com/views/ContinentwiseInternalFactor/ContinentwiseinternalFactorAnalysis?:language=en-GB&:display_count=n&:origin=viz_
 
